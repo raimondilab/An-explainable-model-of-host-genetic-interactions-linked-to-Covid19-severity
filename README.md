@@ -24,7 +24,7 @@ This project is strongly motivated by the scholarly works done so far using Geno
 
 7. Perform the variant interpretation using PCA, UMAP, K-Means clustering and Pathway analysis: In this task we utilized the Jupyter notebook script to further study the non-zero variants output from training the decision tree like ML classifiers (i.e., Random Forest and XGBoost).  The variants were remapped back into the feature space to form a new feature count matrix covering 100 % of the samples (i.e. 841 individuals). This reduced feature matrix was analyzed using Principal Component Analysis (PCA) techniques to reduce the dimensional space.
 
-7.a. Remapping procedure if needed (whenever the training has been done on a different genome assembly): This task is optional should incase the training was done with different genome assembly e.g. "hg_37" to "hg_38". 
+7.1. Remapping procedure if needed (whenever the training has been done on a different genome assembly): This task is optional should incase the training was done with different genome assembly e.g. "hg_37" to "hg_38". 
 
 8. Retrieving associations between variants and disease traits or phenotypes: this task we used a python script to retrieved associations among the variants identified from decision tree like models (Random Forest and XGBoost) classifiers to associate them with disease traits or phenotypes through the Open Targets Genetics platform. 
 
