@@ -10,12 +10,6 @@ This project is strongly motivated by the scholarly works done so far using Geno
   
 </div>
 
-<div style="width: 10%; height: 10%">
-  
-   ![](grading_classification_2000.jpg)
-  
-</div>
-
 ### Project Tasks were organized as follows:
 
 1. Performed stratified k-fold to split phenotype dataset into training and testing: here we generated using a python script, the stratified 5-fold split of the patients' phenotype information into 80 % training sets and 20 % testing sets. 
