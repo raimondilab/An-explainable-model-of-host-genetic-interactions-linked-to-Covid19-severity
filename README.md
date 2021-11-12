@@ -4,9 +4,9 @@ This project focus on the mapping of host-genetics factors determining COVID-19 
 
 This project is strongly motivated by the scholarly works done so far using Geno-Wide Association studies (GWS) in identifying chromosome loci and genetic variants related to COVID-19 susceptibility severity among patients. However, an organic model explaining how these genetic factors concur in the establishment of susceptibility to severe infection when exposed to the SARS-CoV-2 coronavirus infection was not covered using the GWS approaches. Also, there is currently limited usage of Machine learning (ML) techniques available to experts working with Whole-exome sequencing (WES) data sets related to COVID-19. Our study utilized the whole-exome sequencing genome dataset of 2000 European descent patients collected from the GEN-COVID Multicenter Study group (https://clinicaltrials.gov/ct2/show/NCT04549831) coordinated by the University of Siena. The whole-exome genome sequencing dataset contained 1.057M genetic variants of the patients. We used the 2000 patients’ original phenotype information to filter only patients with severity and asymptomatic across all classification criteria (841 patients).
 
-<img src="grading_classification_2000_cohort.JPG" width="300" height="200">
+<img src="grading_classification_2000_cohort.JPG" width="400" height="400">
 
-<img src="grading_classification_2000.jpg" width="300" height="200">
+<img src="grading_classification_2000.jpg" width="400" height="400">
   
 
 ### Project Tasks were organized as follows:
