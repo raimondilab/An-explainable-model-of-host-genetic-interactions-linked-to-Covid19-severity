@@ -6,13 +6,13 @@ This project is strongly motivated by the scholarly works done so far using Geno
 
 <div style="width: 10%; height: 8%">
   
-   ![Phenotype Grading classification](grading_classification_2000_cohort.JPG)
+   ![](grading_classification_2000_cohort.JPG)
   
 </div>
 
 <div style="width: 10%; height: 10%">
   
-   ![Patients' distribution in Grading](grading_classification_2000.jpg)
+   ![](grading_classification_2000.jpg)
   
 </div>
 
