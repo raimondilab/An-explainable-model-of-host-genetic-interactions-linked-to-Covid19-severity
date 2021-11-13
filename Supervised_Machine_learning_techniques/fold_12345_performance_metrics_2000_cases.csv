@@ -1,0 +1,121 @@
+fold,metrics,algorithm,value
+Fold 1,Accuracy ,SVC,59.76
+Fold 1,Accuracy ,Logistic Reg,61.54
+Fold 1,Accuracy ,Random Forest,67.46
+Fold 1,Accuracy ,XGBoost,68.64
+Fold 1,f1-score ,SVC,71.9
+Fold 1,f1-score ,Logistic Reg,73.47
+Fold 1,f1-score ,Random Forest,77.91
+Fold 1,f1-score ,XGBoost,76.02
+Fold 1,Precision ,SVC,65.41
+Fold 1,Precision ,Logistic Reg,66.18
+Fold 1,Precision ,Random Forest,69.29
+Fold 1,Precision ,XGBoost,75
+Fold 1,Recall ,SVC,79.81
+Fold 1,Recall ,Logistic Reg,82.57
+Fold 1,Recall ,Random Forest,88.99
+Fold 1,Recall ,XGBoost,77.06
+Fold 1,MCC ,SVC,3.68
+Fold 1,MCC ,Logistic Reg,7.12
+Fold 1,MCC ,Random Forest,21.99
+Fold 1,MCC ,XGBoost,30.77
+Fold 1,AUC ,SVC,51
+Fold 1,AUC ,Logistic Reg,56
+Fold 1,AUC ,Random Forest,64
+Fold 1,AUC ,XGBoost,72
+Fold 2,Accuracy ,SVC,60.71
+Fold 2,Accuracy ,Logistic Reg,60.71
+Fold 2,Accuracy ,Random Forest,64.88
+Fold 2,Accuracy ,XGBoost,69.05
+Fold 2,f1-score ,SVC,72.27
+Fold 2,f1-score ,Logistic Reg,71.55
+Fold 2,f1-score ,Random Forest,74.68
+Fold 2,f1-score ,XGBoost,75.24
+Fold 2,Precision ,SVC,62.77
+Fold 2,Precision ,Logistic Reg,63.36
+Fold 2,Precision ,Random Forest,65.91
+Fold 2,Precision ,XGBoost,72.48
+Fold 2,Recall ,SVC,85.15
+Fold 2,Recall ,Logistic Reg,82.18
+Fold 2,Recall ,Random Forest,86.14
+Fold 2,Recall ,XGBoost,78.22
+Fold 2,MCC ,SVC,11.4
+Fold 2,MCC ,Logistic Reg,12.45
+Fold 2,MCC ,Random Forest,22.64
+Fold 2,MCC ,XGBoost,34.3
+Fold 2,AUC ,SVC,59
+Fold 2,AUC ,Logistic Reg,60
+Fold 2,AUC ,Random Forest,65
+Fold 2,AUC ,XGBoost,75
+Fold 3,Accuracy ,SVC,57.14
+Fold 3,Accuracy ,Logistic Reg,57.14
+Fold 3,Accuracy ,Random Forest,61.91
+Fold 3,Accuracy ,XGBoost,67.26
+Fold 3,f1-score ,SVC,68.97
+Fold 3,f1-score ,Logistic Reg,68.42
+Fold 3,f1-score ,Random Forest,71.93
+Fold 3,f1-score ,XGBoost,75.34
+Fold 3,Precision ,SVC,61.07
+Fold 3,Precision ,Logistic Reg,61.42
+Fold 3,Precision ,Random Forest,64.57
+Fold 3,Precision ,XGBoost,68.85
+Fold 3,Recall ,SVC,79.21
+Fold 3,Recall ,Logistic Reg,77.23
+Fold 3,Recall ,Random Forest,81.19
+Fold 3,Recall ,XGBoost,83.17
+Fold 3,MCC ,SVC,3.65
+Fold 3,MCC ,Logistic Reg,4.67
+Fold 3,MCC ,Random Forest,15.99
+Fold 3,MCC ,XGBoost,29.05
+Fold 3,AUC ,SVC,56
+Fold 3,AUC ,Logistic Reg,60
+Fold 3,AUC ,Random Forest,65
+Fold 3,AUC ,XGBoost,69
+Fold 4,Accuracy ,SVC,55.95
+Fold 4,Accuracy ,Logistic Reg,56.55
+Fold 4,Accuracy ,Random Forest,61.91
+Fold 4,Accuracy ,XGBoost,70.24
+Fold 4,f1-score ,SVC,66.36
+Fold 4,f1-score ,Logistic Reg,67.56
+Fold 4,f1-score ,Random Forest,73.33
+Fold 4,f1-score ,XGBoost,76.42
+Fold 4,Precision ,SVC,63.48
+Fold 4,Precision ,Logistic Reg,63.33
+Fold 4,Precision ,Random Forest,65.19
+Fold 4,Precision ,XGBoost,75.7
+Fold 4,Recall ,SVC,69.52
+Fold 4,Recall ,Logistic Reg,72.38
+Fold 4,Recall ,Random Forest,83.81
+Fold 4,Recall ,XGBoost,77.14
+Fold 4,MCC ,SVC,2.98
+Fold 4,MCC ,Logistic Reg,2.72
+Fold 4,MCC ,Random Forest,11.22
+Fold 4,MCC ,XGBoost,36.11
+Fold 4,AUC ,SVC,59
+Fold 4,AUC ,Logistic Reg,61
+Fold 4,AUC ,Random Forest,67
+Fold 4,AUC ,XGBoost,74
+Fold 5,Accuracy ,SVC,64.88
+Fold 5,Accuracy ,Logistic Reg,60.12
+Fold 5,Accuracy ,Random Forest,66.67
+Fold 5,Accuracy ,XGBoost,75
+Fold 5,f1-score ,SVC,74.01
+Fold 5,f1-score ,Logistic Reg,68.84
+Fold 5,f1-score ,Random Forest,75.44
+Fold 5,f1-score ,XGBoost,80.19
+Fold 5,Precision ,SVC,67.2
+Fold 5,Precision ,Logistic Reg,65.49
+Fold 5,Precision ,Random Forest,68.25
+Fold 5,Precision ,XGBoost,77.27
+Fold 5,Recall ,SVC,82.35
+Fold 5,Recall ,Logistic Reg,72.55
+Fold 5,Recall ,Random Forest,84.31
+Fold 5,Recall ,XGBoost,83.33
+Fold 5,MCC ,SVC,22.64
+Fold 5,MCC ,Logistic Reg,14.01
+Fold 5,MCC ,Random Forest,26.74
+Fold 5,MCC ,XGBoost,46.69
+Fold 5,AUC ,SVC,65
+Fold 5,AUC ,Logistic Reg,65
+Fold 5,AUC ,Random Forest,71
+Fold 5,AUC ,XGBoost,80
