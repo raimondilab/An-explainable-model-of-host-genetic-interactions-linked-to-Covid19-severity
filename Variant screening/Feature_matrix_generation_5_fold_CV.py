@@ -1,8 +1,13 @@
 
-#### 3) Feature count matrices extractions
-# Here we utilized the extracted filtered variants from 2.2.1 to generate the feature count matrix for training and testing set in each of our stratified 5-foldCV. 
+#### 3) Feature matrix generation 
+'''For each split, we generated a feature matrix for the training set by assigning the allele counts of each screened variant for each sample of the training: i.e. 0 
+for genotype 0/0, 1 for genotypes 1/0 or 0/1, 2 for genotype 1/1. The feature matrix for the test set was defined by considering only variants identified as significant
+after screening the training set of the corresponding split and by assigning the allele count of each sample of the test set. We also included as additional features age,
+which was normalized, and gender, which was binarized by setting males to 0 and females to 1. Severe patients from group “3+4+5” were given the classification label “1”, 
+the asymptomatic patients from group 0 were given the label “0”.''' 
 
-# Note we re-run this script 10-times to extract generate the 80 % screened variant training set and 20 % unscreened variants identified for the training sets for each folds. 
+# Note we re-run this script 10-times to generate the 5-folds of 80 % screened variant training set and 5-folds of 20 % unscreened test sets variants identified 
+# from the training sets of each folds. 
 
 #!/data/SW/anaconda3/envs/myenv/bin/python
 
