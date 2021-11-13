@@ -1,4 +1,4 @@
-This fold contain files and scripts used to achieved task nr. 4,5, 6, and 7. 
+This folder contain files and scripts used to achieved task nr. 4,5, 6, and 7. 
 1. In task 4, we used the "Feature_selection.ipynb" Jupyter notebook script to perform feature selection (removal of multicollinearity) to reduce 
 the number of considered features initially screened through the Log-Odds-Ratio statistics (see task 2, and 3). We removed  multicollinearity
 from features by considering variant allele counts with correlation coefficients (corr.≤|0.8|). 
