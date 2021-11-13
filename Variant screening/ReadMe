@@ -2,8 +2,8 @@ The scripts in this folder focused on task nr. 2 and nr. 3.
 
 1. In task nr. 2, we first run the python script "Variant_screening_training_sets.py" to generate the Log-Odds Ratio (LOR) statistics. This performed 
 a case-control association and screened the variants associated with either severe or asymptomatic patients in each of the training sets for 
-each of the five folds generated (task nr. 1). We used the python script "FDR_adjustment_of_LOR_p_value.py" for Fisher's exact test, to make further 
-corrections on the LOR original p-values. The python script "filter_variant_stat_grading_improved_trainset_5_fold_CV.py" was used to filter significant 
+each of the five folds generated (task nr. 1). We used the python script "FDR_adjustment_of_LOR_p_value.py" for Fisher's exact test, to make adjustment
+to the original LOR p-value column of the contingency table. The python script "filter_variant_stat_grading_improved_trainset_5_fold_CV.py" was used to filter significant 
 variants (i.e., variants with p-values < 0.05 and LOR > 1 are enriched among severe, while those with LOR < -1 are enriched among asymptomatics). we recycled 
 task nr. 2 four-times to account for stratified 2 - 5 folds. 
 
