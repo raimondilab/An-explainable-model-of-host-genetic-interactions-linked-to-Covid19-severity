@@ -1,7 +1,10 @@
 
-#### 2) Screening variants on the training set from each fold
+#### 2) Variant Screening on the training set
 
-#Note: this script was re-used 5-times to extract filtered training set variants for each stratified 5-fold CV. 
+'''We employed a Log-Odds Ratio (LOR) statistics to perform case-control association and to screen variants associated with either severe or asymptomatic patients
+in each of the training sets for each of the five folds generated'''
+
+# Note: this script was re-used 5-times to extract filtered training set variants for each stratified 5-fold CV.
 
 #!/data/SW/anaconda3/envs/myenv/bin/python
 
