@@ -8,7 +8,7 @@ This project employed a multifaceted computational strategy to identify the gene
 
 2. Variant screening;
 
-3.Feature matrix generation; 
+3. Feature matrix generation; 
 
 4. Feature selection: Removal of Multicollinearity;
 
