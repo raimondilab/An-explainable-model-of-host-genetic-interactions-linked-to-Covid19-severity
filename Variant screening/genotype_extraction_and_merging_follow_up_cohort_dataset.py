@@ -1,4 +1,6 @@
-### 10.1) We used this script to extract relevant information (Chr, Ref, Alt, genotypes) from zipped VCF files of the 24 chromosomes (chromosome 1 - Y) 3000 cohort new arrival dataset. The extracted information were merged with their relevant zipped CSV information files for the 24 chromosomes. 
+### 3.2) 
+'''We used this script to extract relevant information (Chr, Ref, Alt, genotypes) from zipped VCF files of the 24 chromosomes (chromosome 1 - Y) 3000 cohort 
+follow-up dataset that can further be useful in feature matrix generation. The extracted information were merged with their relevant zipped CSV information files for all the 24 chromosomes.''' 
 
 
 #!/data/SW/anaconda3/envs/myenv/bin/python
