@@ -1,4 +1,4 @@
-This folder contain files and scripts used to achieved task nr. 4,5, 6, and 7. 
+This folder contain files and scripts used to achieved task nr. 4, 5, 6, and 7. 
 
 1. In task 4, we used the "Feature_selection.ipynb" Jupyter notebook script to perform feature selection (removal of multicollinearity) to reduce 
 the number of considered features initially screened through the Log-Odds-Ratio statistics (see task 2, and 3). We removed  multicollinearity
@@ -23,6 +23,6 @@ best performing models trained using most supported variants with and without co
 
 4a. the saved models' prediction probabilities aggregated across stratified 5-folds (see 4.) aggregated_median_prediction_probabilities_5_folds_full_support_covariates.csv
 
-5. We saved feature generation matrix (see task 3) for each stratified 5-folds as "dataset_feature_matrix.ra" used for the ML analyses (see nr. 1, 2, 3a).
+5. We saved feature generation matrix (see task 3) for each stratified 5-folds as "dataset_feature_matrix.ra" used for the ML analyses (see 1, 2, 3a).
 
 6. We saved Supervised Machine Learning models (see task 5) performance metrics across the stratified 5-folds as "fold_12345_performance_metrics_2000_cases.csv".
