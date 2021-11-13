@@ -1,4 +1,4 @@
-### 3.2) 
+### 3.3) 
 ''' We used this script to generate the feature matrix from 3000 cohort follow-up dataset. Here we considered only the handful identified 16 full supported variants that consistently maintained non-zero weights 
 from decision tree like models (Random Forest and XGBoost) classifier in the stratified 5-fold 2000 cohort analyses. We generated this feature matrix to validate the saved models from 2000 cohort analysis'''
 
