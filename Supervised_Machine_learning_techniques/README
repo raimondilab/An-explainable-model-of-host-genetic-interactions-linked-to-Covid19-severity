@@ -6,7 +6,7 @@ from features by considering variant allele counts with correlation coefficients
 
 2. In task 5, we performed Supervised Machine Learning with the Jupyter notebook script
 "Supervised Machine Learning Approach_Focus on Stratified 5-Folds CV dataset 2000 cohort.ipynb". In this task we trained supervised learning models
-for binary classification tasks by employing several algorithms, i.e. Support Vector Machine, Logistic Regression, Random Forest, and Extreme 
+for binary classification task by employing several algorithms, i.e. Support Vector Machine, Logistic Regression, Random Forest, and Extreme 
 Gradient Boosting classifiers.
 
 3. task 6, we utilized same script (see task 5) and saved the Feature importance scores (weights) for each trained model (SVC, Logistic Regression, Random Forest, 
