@@ -1,1 +1,10 @@
 This folder contained scripts used to achieved task nr. 8, 9, and 10. 
+
+1. In task nr. 8, we used the Jupyter notebook script "Unsupervised Machine Learning approach UMAP, PCA, Clustering.ipynb" to perform Principal Component Analysis (PCA). 
+The variants with non-zero weights from best performing decision-tree models were remapped back into the feature space to form a new feature count matrix covering 100 % 
+of the samples (i.e. 841 individuals). 
+
+2. In task nr. 9, we utilized the ReactomeFIViz plugin (Wu et al., 2014) available in Cytoscape (Lotia et al., 2013) and genes affected by variants with non-zero 
+feature importances in both patient groups (see task 6). we further visualized bar-chart of pathway enrichment clusters using the python script "plot_bar_pathway_module_adjP_1.py".
+
+3. In task nr. 10, we interrogated the database using the GraphQL query language embedded in a python script "
