@@ -1,5 +1,8 @@
-### 10.2) We used this script to extracted the identified 16 full supported variants feature count matrix from 2000 cohort analyses to validate the saved models on the 3000 cohort new arrival dataset.
+### 3.2) 
+''' We used this script to generate the feature matrix from 3000 cohort follow-up dataset. Here we considered only the handful identified 16 full supported variants that consistently maintained non-zero weights 
+from decision tree like models (Random Forest and XGBoost) classifier in the stratified 5-fold 2000 cohort analyses. We generated this feature matrix to validate the saved models from 2000 cohort analysis'''
 
+# Note: this script was run once to generate the feature matrix to validate the saved models from 2000 cohort study. 
 
 #!/data/SW/anaconda3/envs/myenv/bin/python
 
