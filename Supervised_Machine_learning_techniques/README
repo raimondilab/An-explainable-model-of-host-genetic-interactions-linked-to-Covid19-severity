@@ -9,8 +9,8 @@ from features by considering variant allele counts with correlation coefficients
 for binary classification tasks by employing several algorithms, i.e. Support Vector Machine, Logistic Regression, Random Forest, and Extreme 
 Gradient Boosting classifiers.
 
-3. task 6, we utilized same script (see task 5) to save the Feature importance scores for each trained model (SVC, Logistic Regression, Random Forest, 
-XGBoost) classifiers. The feature importance (weights) scores assigned from these models were aggregated across the 5-folds to generate
+3. task 6, we utilized same script (see task 5) and saved the Feature importance scores (weights) for each trained model (SVC, Logistic Regression, Random Forest, 
+XGBoost) classifiers. The feature importance scores assigned from these models were aggregated across the 5-folds to generate
 a non-zero panel of variants for further downstream analysis.
 
 3a. We identified only 16 variants that consistently received non-zero coefficients in all decision tree-based models. We focused our attention on these 16 variants.
