@@ -1,6 +1,9 @@
-#### (2.1) : We used the fisher's exact test to make adjustment (corrections) on the p-value column of the extracted variants from (2) for each of the stratified 5-folds. 
+#### 2.1)
 
-# Note this was re-run five-times to make corrections in each stratified 5-foldCV extracted variants p-values.
+''' this script was used to perform the fisher's exact test to make adjustment (corrections) on the p-value column of the extracted variants 
+from variant screening task in nr. 2) for each of the stratified 5-folds training sets.'''
+
+# Note: this script was re-run five-times to account for the p-value corrections in task 2 for each of the 5-folds.
 
 
 #!/data/SW/anaconda3/envs/myenv/bin/python
