@@ -1,28 +1,30 @@
 # An Explainable Model of Host Genetic Interactions Linked to Covid-19 Severity
 ## Introduction
-This project employed a multifaceted computational strategy to identify the genetic factors contributing to increased risk of severe COVID-19 infection from a Whole Exome Sequencing (WES) dataset of a cohort of 2000 Italian patients. We used a stratified k-fold screening, to rank variants more associated with severity, with training of multiple supervised classifiers, to predict severity on the basis of screened features. Feature importance analysis from decision-tree models allowed to identify a handful of 16 variants with highest support which, together with age and gender covariates, were found to be most predictive of COVID-19 severity. The whole-exome genome sequencing dataset contained 1.057M genetic variants of the patients. We used the 2000 patients’ original phenotype information to filter only patients with severity and asymptomatic across all classification criteria (841 patients).  This study was strongly motivated by the scholarly works done so far using Geno-Wide Association studies (GWS) to provide solid foundations of host genetic factors individually associated with COVID-19 severity, they most often fail to provide an organic picture about their interplay. By learning non-linear patterns from data in a human interpretable fashion, explainable machine learning algorithms might help in understanding the multifactorial nature of the interactions between host genetics and COVID-19, at the same time providing effective tools for risk and severity forecasting.
+This project employed a multifaceted computational strategy to identify the genetic factors contributing to increased risk of severe COVID-19 infection from a Whole Exome Sequencing (WES) dataset of a cohort of 2000 Italian patients. We used a stratified k-fold screening, to rank variants more associated with severity, with training of multiple supervised classifiers, to predict severity on the basis of screened features. More details are found on (DOI:10.21203/rs.3.rs-1062190/v1).
 
 ### Project Tasks were organized as follows:
 
-1. Stratified K-fold split of sample cohort into train and test sets: here we generated using a python script, the stratified 5-fold split of the patients' phenotype information into 80 % training sets and 20 % testing sets. 
+1. Stratified K-fold split of sample cohort into train and test sets;
 
-2. Variant screening: we used the training set phenotype information generated from the stratified 5-folds CV approach to screen the Whole Exome Sequencing (WES) ~ 1.057M variants of the patients in each split (i.e., training fold 1 - 5). The Log-Odds-Ratio statistics |LOR| < 1 with cut-off of 6 and p_value <= 0.05 were used to filtered variants we considered as significantly relevants (enriched or asymptomatic). We generated a contingency table to measure the enrichment of reference (Ref) or alternative (Alt) alleles in either severe or control groups by employing an additive model, whereby homozygous genotype (1/1) has twice the risk (or protection) of the heterozygous type (0/1 or 1/0). Alleles flagged as somatic were considered as Ref alleles. 
+2. Variant screening;
 
-3. Feature matrix generation: we used a python script for this task, we repeated the re-run five times, at each run we considered a single stratified K-fold split fitered 80 % training set variants. The filtered variants for the training set in each fold was remapped back to extract the allele freqency count in each of the 24 chromosome (Chr1 - ChrY) zipped CSV files. This helped us to develop the feature count matrices for each of the training set in the 5-fold. The 20 % test sets in each fold were left unscreened, we however, remapped the identified variants from the training set of each fold to formulate the feature count matrices. 
+3.Feature matrix generation; 
 
-4. Feature selection; Removal of Multicollinearity: This jupyter notebook script was used to further reduce the number of considered features initially screened through the Log-Odds-Ratio statistics from the 5-folds. Variants with allele counts correlation coefficients corr.≤|0.8| were removed from the feature count matrices.  
+4. Feature selection: Removal of Multicollinearity;
 
-5. Supervised Binary Classification: this Jupyter notebook script was used to train the stratified 5-fold feature count matrices. We used the Support Vector Classifier (SVC), Logistic Regression classifier, Random Forest classifier and XGBoost classifier with GirdSearchCV. The best GridSearchCV model parameters were used to fit the 80 % training set in each of the 5-folds. We further made predictions using the 20 % testing set in each of the stratfied 5-folds. We further output the prediction probabilities and the model feature importance coefficients for each of the four ML classifiers in each of the stratified 5-folds CV. We further visualized the aggregated prediction probabilities via a combined ROC-AUC plot using the (Median method) for each of the four ML classifiers (SVC, Logistic Regression, Random Forest and XGBoost) in the stratfied 5-folds CV. 
+5. Supervised Binary Classification;
 
-6. Principal Component Analysis (PCA) and clustering: In this task we utilized the Jupyter notebook script to further study the non-zero variants output from training the decision tree like ML classifiers (i.e., Random Forest and XGBoost).  The variants were remapped back into the feature space to form a new feature count matrix covering 100 % of the samples (i.e. 841 individuals). This reduced feature matrix was analyzed using Principal Component Analysis (PCA) techniques to reduce the dimensional space.
+6. Feature importance scores;
 
-7. Retrieving associations between variants and disease traits or phenotypes: this task we used a python script to retrieved associations among the variants identified from decision tree like models (Random Forest and XGBoost) classifiers to associate them with disease traits or phenotypes through the Open Targets Genetics platform. 
+7. Final testing on a follow-up cohort;
 
-8. 16 full supported variants analyses: 16 variants consistently received non-zero coefficients in all decision tree-based models (Random Forest and XGBoost). We recycled the Jupyter notebook script from 3 to further re-evaluate the predictive power of these variants with and without covariates (age and sex). We extracted these 16 full supported variants from each of the stratified 5-fold training and testing feature count matrices and performed the supervised Machine Learning process. 
+8. Principal Component Analysis (PCA) and clustering; 
 
-9. Final testing on external dataset from new cohort (3rd, 4th wave, etc..): this python script was further used to merge our new arrival WES (3000 cohort) vcf zipped files from our collaborators to extract relevant identified variants from the 2000 cohorts for further validation of our models.  
+9. Pathway Enrichment Analysis;
 
-**Authors**: Anthony Onoja, Nicola Picchiotti,GEN-COVID Multicenter Study, Francesca Colombo, Francesca Chiaromonte, Alessandra Renieri, Simone Furini, Francesco Raimondi.
+10. Retrieving associations between variants and disease traits or phenotypes.
+
+**Authors**: Anthony Onoja, Nicola Picchiotti, Chiara Fallerini, Margherita Baldassarri, Francesca Fava, Francesca Colombo, Francesca Chiaromonte, Alessandra Renieri, Simone Furini, Francesco Raimondi.
 
 ***Software and Packages:*** All the analyses were performed using a customized Python script,Jupyter notebook, with the following libraries: scipy 1.2.0, numpy 1.19.4, scikit-learn 0.23.2., statsmodels 0.11.0 and matplotlib 3.2.1
 
