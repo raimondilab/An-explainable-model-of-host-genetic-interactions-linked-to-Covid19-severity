@@ -20,9 +20,11 @@ This project employed a multifaceted computational strategy to identify the gene
 
 8. Principal Component Analysis (PCA) and clustering; 
 
-9. Pathway Enrichment Analysis;
+9. Variant functional analysis
 
-10. Retrieving associations between variants and disease traits or phenotypes.
+    9a.  Pathway Enrichment Analysis;
+
+    9b.  Retrieving associations between variants and disease traits or phenotypes.
 
 **Authors**: Anthony Onoja, Nicola Picchiotti, Chiara Fallerini, Margherita Baldassarri, Francesca Fava, Francesca Colombo, Francesca Chiaromonte, Alessandra Renieri, Simone Furini, Francesco Raimondi.
 
