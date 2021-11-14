@@ -20,7 +20,7 @@ This project employed a multifaceted computational strategy to identify the gene
 
 8. Principal Component Analysis (PCA) and clustering; 
 
-9. Variant functional analysis
+9. Variant functional analysis;
 
     9a.  Pathway Enrichment Analysis;
 
