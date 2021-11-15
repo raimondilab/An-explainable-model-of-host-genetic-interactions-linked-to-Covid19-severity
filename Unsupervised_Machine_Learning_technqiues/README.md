@@ -1,6 +1,6 @@
-This folder contained scripts used to achieved task nr. 8
+This folder contained scripts used to achieved task nr. 3
 
-1. In task nr. 8, we used the Jupyter notebook script "Unsupervised Machine Learning approach UMAP, PCA, Clustering.ipynb" to perform Principal Component Analysis (PCA). 
+1. In sub-task nr. 3a, we used the Jupyter notebook script "Unsupervised Machine Learning approach UMAP, PCA, Clustering.ipynb" to perform Principal Component Analysis (PCA). 
 The variants with non-zero weights from best performing decision-tree models were remapped back into the feature space to form a new feature count matrix covering 100 % 
 of the samples (i.e. 841 individuals). 
 
