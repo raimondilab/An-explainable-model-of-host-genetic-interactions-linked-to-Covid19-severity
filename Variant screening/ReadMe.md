@@ -20,8 +20,8 @@ from group 0 were given the label “0”.
 
      3a. Output files (see 3) were saved as "filtered_variants_phenotype_stratified_5_foldCVs.rar"
 
-4a. The python script "genotype_extraction_and_merging_follow_up_cohort_data.py" was used to extract VCF files and merge with relevant CSV files of 24 
+4. The python script "genotype_extraction_and_merging_follow_up_cohort_data.py" was used to extract VCF files and merge with relevant CSV files of 24 
 Chromosomes in follow-up cohort study of 3000 patients. This unified the WES data into desirable format for variants match extractions identified from 2000 
 cohort analysis. 
 
-4b. The python script "Feature_matrix_generation_full_supported_variants_follow_up_cohort.py" was used to generate the feature matrix from (4a). 
+     4a. The python script "Feature_matrix_generation_full_supported_variants_follow_up_cohort.py" was used to generate the feature matrix from (4). 
