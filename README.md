@@ -6,9 +6,9 @@ This project employed a multifaceted computational strategy to identify the gene
 
 1. Variant screening;
 
-   1a. Variant screening
+   1a. Stratified K-fold split of sample cohort into train and test sets;
 
-   1b. Stratified K-fold split of sample cohort into train and test sets;
+   1b. Variant screening;
    
    1c. Feature matrix generation; 
 
