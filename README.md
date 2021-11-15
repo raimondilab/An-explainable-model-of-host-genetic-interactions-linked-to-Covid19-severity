@@ -4,27 +4,31 @@ This project employed a multifaceted computational strategy to identify the gene
 
 ### Project Tasks were organized as follows:
 
-1. Stratified K-fold split of sample cohort into train and test sets;
+1. Variant screening;
 
-2. Variant screening;
+   1a. Stratified K-fold split of sample cohort into train and test sets;
+   
+   1b. Feature matrix generation; 
 
-3. Feature matrix generation; 
+2. Supervised Machine Learning Techniques;
 
-4. Feature selection: Removal of Multicollinearity;
+   2a. Feature selection: Removal of Multicollinearity;
+   
+   2b. Supervised Binary Classification;
+   
+   2c. Feature importance scores;
+   
+   2d. Final testing on a follow-up cohort;
 
-5. Supervised Binary Classification;
+3. Unsupervised Machine Learning Technqiues;
 
-6. Feature importance scores;
+   3a. Principal Component Analysis (PCA) and clustering
 
-7. Final testing on a follow-up cohort;
+4. Variant functional analysis;
 
-8. Principal Component Analysis (PCA) and clustering; 
+    4a.  Pathway Enrichment Analysis;
 
-9. Variant functional analysis;
-
-    9a.  Pathway Enrichment Analysis;
-
-    9b.  Retrieving associations between variants and disease traits or phenotypes.
+    4b.  Retrieving associations between variants and disease traits or phenotypes.
 
 **Authors**: Anthony Onoja, Nicola Picchiotti, Chiara Fallerini, Margherita Baldassarri, Francesca Fava, Francesca Colombo, Francesca Chiaromonte, Alessandra Renieri, Simone Furini, Francesco Raimondi.
 
