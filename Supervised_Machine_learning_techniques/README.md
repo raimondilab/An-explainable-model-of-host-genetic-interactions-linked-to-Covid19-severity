@@ -13,15 +13,15 @@ Gradient Boosting (XGBoost) classifiers.
 XGBoost) classifiers. The feature importance scores assigned from these models were aggregated across the 5-folds to generate
 a non-zero panel of variants for further downstream analysis.
 
-3a. We identified only 16 variants that consistently received non-zero coefficients in all decision tree-based models. We focused our attention on these 16 variants.
+     3a. We identified only 16 variants that consistently received non-zero coefficients in all decision tree-based models. We focused our attention on these 16 variants.
 We re-evaluate the predictive power of these variants using the Jupyter notebook script "Supervised_Machine_Learning_focus_on_16_Full_supported_variants_fold_1_5.ipynb" 
 
-3b. We saved ML models (SVC, Logsitic Regression, Random Forest and XGBoost) for the 16 full supported variants (see 3a.) "Supervised_ML_16_full_support_variants_saved_models.rar"
+     3b. We saved ML models (SVC, Logsitic Regression, Random Forest and XGBoost) for the 16 full supported variants (see 3a.) "Supervised_ML_16_full_support_variants_saved_models.rar"
 
 4. In sub-task 2d, we utilized the Jupyter notebook "Validation of Deployed 16 full supported variants ML models on new batch (3000 cohort).ipynb" to validate
 best performing models trained using most supported variants with and without covariates on a followup cohort of sequenced, Italian patients. 
 
-4a. the saved models' prediction probabilities aggregated across stratified 5-folds (see 4.) "aggregated_median_prediction_probabilities_5_folds_full_support_covariates.csv"
+     4a. the saved models' prediction probabilities aggregated across stratified 5-folds (see 4.) "aggregated_median_prediction_probabilities_5_folds_full_support_covariates.csv"
 
 5. We saved feature generation matrix (see sub-task 3) for each stratified 5-folds as "dataset_feature_matrix.ra" used for the ML analyses (see 1, 2, 3a).
 
