@@ -1,4 +1,4 @@
-### 3.2) 
+### 4) 
 '''We used this script to extract relevant information (Chr, Ref, Alt, genotypes) from zipped VCF files of the 24 chromosomes (chromosome 1 - Y) 3000 cohort 
 follow-up dataset that can further be useful in feature matrix generation. The extracted information were merged with their relevant zipped CSV information files for all the 24 chromosomes.''' 
 
