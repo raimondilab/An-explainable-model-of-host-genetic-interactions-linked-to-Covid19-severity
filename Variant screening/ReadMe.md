@@ -1,7 +1,7 @@
 The scripts in this folder focused on task nr. 1
 
 1. In sub-task 1a, we utilized the python script "Stratified_K-fold split_of_sample_cohort_into_train_and_test sets.py". We embedded a strategy for variant screening in, 
-stratified k-fold cross-validation (using the Strati¦edKFold function from the scikit-learn library) scheme to generate 5 random splits, into a training and testing test,
+stratified K-Fold cross-validation (using the Stratified K-Fold function from the scikit-learn library) scheme to generate 5 random splits, into a training and testing test,
 of the original dataset. Each fold was constituted by an 80 % training set which was also employed for variant screening and a 20 % testing set. 
 
 2. In sub-task nr. 1b, we first run the python script "Variant_screening_training_sets.py" to generate the Log-Odds Ratio (LOR) statistics. This performed 
