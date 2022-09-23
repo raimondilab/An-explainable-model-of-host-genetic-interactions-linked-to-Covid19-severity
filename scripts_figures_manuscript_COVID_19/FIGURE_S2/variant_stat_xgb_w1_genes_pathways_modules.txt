@@ -1,0 +1,575 @@
+Module	GeneSet	RatioOfProteinsInGeneSet	NumberOfProteinsInGeneSet	ProteinsFromModule	P-value	FDR	Nodes
+0	Fanconi anemia pathway(K)	0,0046	54	9	2,0994E-13	2,4563E-11	BRCA2,FANCI,FANCM,FANCA,MLH1,PALB2,RAD51,ERCC4,CENPS
+0	Fanconi anemia pathway(N)	0,0038	45	8	3,0617E-12	1,7758E-10	BRCA2,FANCI,FANCM,XRCC3,FANCA,PALB2,ATM,CENPS
+0	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)(R)	0,0072	85	9	1,1570E-11	4,5123E-10	RTEL1,BRCA2,HERC2,TP53BP1,XRCC3,PALB2,RAD51,ERCC4,ATM
+0	Homologous recombination(K)	0,0035	41	6	6,0668E-09	1,7594E-07	BRCA2,POLD1,XRCC3,PALB2,RAD51,ATM
+0	Nucleotide Excision Repair(R)	0,0086	102	7	5,1997E-08	1,1959E-06	POLR2A,POLD1,LIG1,GTF2H3,XAB2,ERCC4,UVSSA
+0	Fanconi Anemia Pathway(R)	0,0030	36	5	1,5831E-07	3,0080E-06	FANCI,FANCM,FANCA,ERCC4,CENPS
+0	Meiotic recombination(R)	0,0027	32	4	4,5534E-06	7,2855E-05	BRCA2,MLH1,RAD51,ATM
+0	Processing of Capped Intron-Containing Pre-mRNA(R)	0,0200	236	7	1,3276E-05	1,8587E-04	CCAR1,POLR2A,NUP85,DHX38,FUS,XAB2,SYF2
+0	Mismatch Repair(R)	0,0013	15	3	1,9533E-05	2,2473E-04	POLD1,LIG1,MLH1
+0	Nucleotide excision repair(K)	0,0040	47	4	2,0430E-05	2,2473E-04	POLD1,LIG1,GTF2H3,ERCC4
+0	Mismatch repair(K)	0,0019	23	3	6,9108E-05	6,8267E-04	POLD1,LIG1,MLH1
+0	Telomere Maintenance(R)	0,0056	66	4	7,5852E-05	6,8267E-04	RTEL1,POLR2A,POLD1,LIG1
+0	BARD1 signaling events(N)	0,0025	29	3	1,3659E-04	1,2293E-03	FANCA,RAD51,ATM
+0	RNA Polymerase II Transcription(R)	0,0773	913	11	1,6439E-04	1,3151E-03	ICE1,POLR2A,DHX38,FANCI,WWOX,TBP,MLH1,GTF2H3,POU2F2,RAD51,ATM
+0	B-WICH complex positively regulates rRNA expression(R)	0,0030	35	3	2,3678E-04	1,6574E-03	TAF1C,TBP,MYBBP1A
+0	Nonhomologous End-Joining (NHEJ)(R)	0,0030	36	3	2,5705E-04	1,7994E-03	HERC2,TP53BP1,ATM
+0	Validated transcriptional targets of deltaNp63 isoforms(N)	0,0038	45	3	4,9159E-04	2,9496E-03	BRCA2,POU2F2,ATM
+0	DNA Double Strand Break Response(R)	0,0039	46	3	5,2387E-04	3,1432E-03	HERC2,TP53BP1,ATM
+0	NoRC negatively regulates rRNA expression(R)	0,0041	49	3	6,2877E-04	3,7311E-03	TAF1C,TBP,GTF2H3
+0	RNA Polymerase I Transcription(R)	0,0044	52	3	7,4622E-04	3,7311E-03	TAF1C,TBP,GTF2H3
+0	SIRT1 negatively regulates rRNA expression(R)	0,0010	12	2	7,8460E-04	3,9230E-03	TAF1C,TBP
+0	Cytosolic iron-sulfur cluster assembly(R)	0,0011	13	2	9,1884E-04	4,5942E-03	RTEL1,POLD1
+0	Cell Cycle Checkpoints(R)	0,0210	248	5	1,4555E-03	6,7624E-03	HERC2,NUP85,TP53BP1,ATM,CENPS
+0	Spliceosome(K)	0,0128	151	4	1,6906E-03	6,7624E-03	DHX38,FUS,XAB2,SYF2
+0	role of brca1 brca2 and atr in cancer susceptibility(B)	0,0017	20	2	2,1425E-03	8,5699E-03	BRCA2,FANCA
+0	p73 transcription factor network(N)	0,0065	77	3	2,2855E-03	9,1419E-03	BRCA2,WWOX,RAD51
+0	Gene Silencing by RNA(R)	0,0068	80	3	2,5453E-03	0,0102	POLR2A,NUP85,RAN
+0	Canonical NF-kappaB pathway(N)	0,0019	23	2	2,8153E-03	0,0113	ATM,RAN
+0	RNA transport(K)	0,0157	186	4	3,5757E-03	0,0120	NUP85,FUS,GEMIN4,RAN
+0	Transcriptional misregulation in cancer(K)	0,0163	192	4	4,0014E-03	0,0120	SIX4,KDM6A,FUS,ATM
+0	mRNA Capping(R)	0,0025	29	2	4,4189E-03	0,0133	POLR2A,GTF2H3
+0	Nucleosome assembly(R)	0,0025	29	2	4,4189E-03	0,0133	MIS18BP1,CENPS
+0	Resolution of Abasic Sites (AP sites)(R)	0,0026	31	2	5,0279E-03	0,0151	POLD1,LIG1
+0	Base excision repair(K)	0,0028	33	2	5,6734E-03	0,0170	POLD1,LIG1
+0	ATM pathway(N)	0,0029	34	2	6,0096E-03	0,0180	TP53BP1,ATM
+0	DNA replication(K)	0,0030	36	2	6,7088E-03	0,0201	POLD1,LIG1
+0	ATR signaling pathway(N)	0,0031	37	2	7,0716E-03	0,0212	BRCA2,RAD51
+0	Basal transcription factors(K)	0,0038	45	2	0,0103	0,0309	TBP,GTF2H3
+0	Metabolism of non-coding RNA(R)	0,0045	53	2	0,0140	0,0322	NUP85,GEMIN4
+0	tRNA processing in the nucleus(R)	0,0048	57	2	0,0161	0,0322	NUP85,RAN
+0	Activation of anterior HOX genes in hindbrain development during early embryogenesis(R)	0,0056	66	2	0,0212	0,0423	POLR2A,KDM6A
+0	SUMOylation(R)	0,0148	175	3	0,0214	0,0427	HERC2,NUP85,TP53BP1
+0	General transcription by RNA polymerase I(P)	0,0006	7	1	0,0234	0,0469	TAF1C
+1	Pathways in cancer(K)	0,0450	531	12	2,1231E-07	6,2418E-05	RET,NOTCH3,CSF1R,FLT4,CSF2RB,IGF1R,FGF22,NTRK1,STAT3,RUNX1,FGFR3,MET
+1	Rap1 signaling pathway(K)	0,0178	210	8	6,8668E-07	1,0094E-04	CSF1R,FLT4,IGF1R,FGF22,ANGPT1,VAV2,FGFR3,MET
+1	Ras signaling pathway(K)	0,0196	232	8	1,4396E-06	1,4108E-04	CSF1R,FLT4,IGF1R,FGF22,NTRK1,ANGPT1,FGFR3,MET
+1	MAPK signaling pathway(K)	0,0249	294	8	8,1554E-06	5,9535E-04	CSF1R,FLT4,IGF1R,FGF22,NTRK1,ANGPT1,FGFR3,MET
+1	RAF/MAP kinase cascade(R)	0,0199	235	7	1,8056E-05	1,0472E-03	RET,CSF2RB,FGF22,ANGPT1,GFRA4,FGFR3,MET
+1	JAK-STAT signaling pathway(K)	0,0137	162	6	2,2851E-05	1,1103E-03	CNTFR,CTF1,CSF2RB,LEPR,STAT3,IL9R
+1	Posttranslational regulation of adherens junction stability and dissassembly(N)	0,0041	48	4	2,6978E-05	1,1103E-03	RET,IGF1R,CDH2,MET
+1	PI3K-Akt signaling pathway(K)	0,0300	354	8	3,0841E-05	1,1103E-03	CSF1R,FLT4,IGF1R,FGF22,NTRK1,ANGPT1,FGFR3,MET
+1	Signaling events mediated by PTP1B(N)	0,0044	52	4	3,6779E-05	1,1769E-03	CSF1R,CDH2,LEPR,STAT3
+1	Transcriptional misregulation in cancer(K)	0,0163	192	6	5,8545E-05	1,6978E-03	CSF1R,IGF1R,NTRK1,RUNX1,TCF3,MET
+1	Cytokine-cytokine receptor interaction(K)	0,0250	295	7	7,5821E-05	1,9216E-03	CNTFR,CSF1R,CTF1,CSF2RB,CXCL2,LEPR,IL9R
+1	Interleukin-6 family signaling(R)	0,0019	23	3	8,0066E-05	1,9216E-03	CNTFR,CTF1,STAT3
+1	Myogenesis(R)	0,0020	24	3	9,0746E-05	1,9964E-03	CDH2,BNIP2,TCF3
+1	Central carbon metabolism in cancer(K)	0,0059	70	4	1,1532E-04	2,4218E-03	RET,NTRK1,FGFR3,MET
+1	EGFR tyrosine kinase inhibitor resistance(K)	0,0067	79	4	1,8281E-04	3,4734E-03	IGF1R,STAT3,FGFR3,MET
+1	Calcium signaling pathway(K)	0,0203	240	6	1,9693E-04	3,5447E-03	RET,FLT4,FGF22,NTRK1,FGFR3,MET
+1	Transcriptional regulation of granulopoiesis(R)	0,0027	32	3	2,1089E-04	3,5852E-03	STAT3,RUNX1,TAL1
+1	Signaling events mediated by TCPTP(N)	0,0030	35	3	2,7391E-04	4,3825E-03	CSF1R,STAT3,MET
+1	Interleukin-2 family signaling(R)	0,0034	40	3	4,0385E-04	6,0577E-03	CSF2RB,STAT3,IL9R
+1	Th17 cell differentiation(K)	0,0091	107	4	5,7259E-04	8,0163E-03	STAT3,NFATC2,RUNX1,CD247
+1	Signaling by Leptin(R)	0,0009	11	2	7,2840E-04	0,0102	LEPR,STAT3
+1	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)(R)	0,0046	54	3	9,5992E-04	0,0125	IGF1R,FGF22,FGFR3
+1	Natural killer cell mediated cytotoxicity(K)	0,0111	131	4	1,2098E-03	0,0145	NFATC2,VAV2,CD48,CD247
+1	Signaling pathways regulating pluripotency of stem cells(K)	0,0121	143	4	1,6658E-03	0,0195	IGF1R,STAT3,TCF3,FGFR3
+1	Acute myeloid leukemia(K)	0,0057	67	3	1,7758E-03	0,0195	CSF1R,STAT3,RUNX1
+1	Breast cancer(K)	0,0124	147	4	1,8413E-03	0,0203	NOTCH3,FLT4,IGF1R,FGF22
+1	Melanoma(K)	0,0061	72	3	2,1768E-03	0,0218	IGF1R,FGF22,MET
+1	Non-small cell lung cancer(K)	0,0061	72	3	2,1768E-03	0,0218	RET,STAT3,MET
+1	T cell activation(P)	0,0069	81	3	3,0316E-03	0,0303	NFATC2,VAV2,CD247
+1	PD-L1 expression and PD-1 checkpoint pathway in cancer(K)	0,0075	89	3	3,9433E-03	0,0355	STAT3,NFATC2,CD247
+1	Th1 and Th2 cell differentiation(K)	0,0078	92	3	4,3237E-03	0,0378	NOTCH3,NFATC2,CD247
+1	MicroRNAs in cancer(K)	0,0262	310	5	4,7203E-03	0,0378	NOTCH3,DNMT1,STAT3,FGFR3,MET
+1	Signaling by VEGF(R)	0,0080	95	3	4,7257E-03	0,0378	FLT4,SHB,VAV2
+1	Surfactant metabolism(R)	0,0025	30	2	5,1914E-03	0,0392	SFTA3,CSF2RB
+1	Regulation of CDC42 activity(N)	0,0025	30	2	5,1914E-03	0,0392	BCAR3,VAV2
+1	Hematopoietic cell lineage(K)	0,0084	99	3	5,2960E-03	0,0392	CSF1R,CD34,IL9R
+1	Focal adhesion(K)	0,0170	201	4	5,6071E-03	0,0392	FLT4,IGF1R,VAV2,MET
+1	IL12 signaling mediated by STAT4(N)	0,0027	32	2	5,8802E-03	0,0412	STAT3,CD247
+1	Proteoglycans in cancer(K)	0,0174	205	4	6,0054E-03	0,0420	IGF1R,STAT3,VAV2,MET
+1	T cell receptor signaling pathway(K)	0,0088	104	3	6,0648E-03	0,0425	NFATC2,VAV2,CD247
+1	HIF-1 signaling pathway(K)	0,0092	109	3	6,8973E-03	0,0466	IGF1R,ANGPT1,STAT3
+1	RET signaling(R)	0,0030	36	2	7,3757E-03	0,0466	RET,GFRA4
+1	Thyroid cancer(K)	0,0031	37	2	7,7738E-03	0,0466	RET,NTRK1
+1	GMCSF-mediated signaling events(N)	0,0031	37	2	7,7738E-03	0,0466	CSF2RB,STAT3
+2	Regulation of nuclear SMAD2/3 signaling(N)	0,0065	77	4	3,7647E-05	1,9539E-03	MED15,HNF4A,SMAD3,AR
+2	TCF dependent signaling in response to WNT(R)	0,0135	160	5	4,1282E-05	1,9539E-03	TRRAP,ZNRF3,SOX4,TCF7L2,SMARCA4
+2	Regulation of nuclear beta catenin signaling and target gene transcription(N)	0,0067	79	4	4,1573E-05	1,9539E-03	TRRAP,TCF7L2,SMARCA4,AR
+2	Chromatin organization(R)	0,0173	204	5	1,2907E-04	4,5175E-03	KDM5A,TRRAP,SGF29,SMARCA4,BRWD1
+2	Regulation of lipid metabolism by PPARalpha(R)	0,0099	117	4	1,8754E-04	5,2512E-03	MED15,NPAS2,ARNTL,ANKRD1
+2	Coregulation of Androgen receptor activity(N)	0,0052	61	3	4,5510E-04	0,0105	RPS6KA3,ZMIZ1,AR
+2	Hippo signaling pathway(K)	0,0133	157	4	5,6827E-04	0,0114	TEAD2,TCF7L2,SMAD3,BMP5
+2	Circadian rhythm pathway(N)	0,0014	16	2	7,2701E-04	0,0124	NPAS2,ARNTL
+2	TGF-beta signaling pathway(P)	0,0068	80	3	9,9498E-04	0,0143	SMAD3,GDF1,BMP5
+2	Signaling by NODAL(R)	0,0016	19	2	1,0205E-03	0,0143	SMAD3,GDF1
+2	RNA Polymerase II Transcription(R)	0,0773	913	8	1,2455E-03	0,0149	MED15,HNF4A,TEAD2,TCF7L2,ZFHX3,SMAD3,SMARCA4,AR
+2	Interleukin-7 signaling(R)	0,0019	22	2	1,3620E-03	0,0150	SMARCA4,BRWD1
+2	Maturity onset diabetes of the young(K)	0,0022	26	2	1,8908E-03	0,0189	SLC2A2,HNF4A
+2	Circadian rhythm(K)	0,0026	31	2	2,6676E-03	0,0267	NPAS2,ARNTL
+2	Regulation of beta-cell development(R)	0,0031	37	2	3,7658E-03	0,0339	SLC2A2,HNF4A
+2	FOXA2 and FOXA3 transcription factor networks(N)	0,0036	42	2	4,8157E-03	0,0385	SLC2A2,HNF4A
+2	FOXA1 transcription factor network(N)	0,0037	44	2	5,2692E-03	0,0422	XBP1,AR
+2	Wnt signaling pathway(K)	0,0135	160	3	6,9802E-03	0,0489	ZNRF3,TCF7L2,SMAD3
+3	Deubiquitination(R)	0,0192	227	8	5,5655E-08	1,1512E-05	UBE2D1,PSMB7,PSMD7,SMURF2,APC,PSME4,OGT,BIRC3
+3	TNF receptor signaling pathway(N)	0,0039	46	5	9,8396E-08	1,1512E-05	CASP8,MAP2K7,MAP3K5,TAB2,BIRC3
+3	C-type lectin receptors (CLRs)(R)	0,0118	139	6	9,9962E-07	7,7971E-05	UBE2D1,PSMB7,PSMD7,CASP8,PSME4,TAB2
+3	HIV-1 Nef: Negative effector of Fas and TNF-alpha(N)	0,0028	33	4	1,3683E-06	7,9361E-05	CASP8,MAP2K7,MAP3K5,BIRC3
+3	Regulation of mitotic cell cycle(R)	0,0072	85	5	1,9841E-06	9,3253E-05	UBE2D1,PSMB7,PSMD7,CDC27,PSME4
+3	TNF signaling pathway(K)	0,0095	112	5	7,5276E-06	2,9358E-04	CASP8,MAP2K7,MAP3K5,TAB2,BIRC3
+3	Synthesis of DNA(R)	0,0100	118	5	9,6729E-06	3,0595E-04	UBE2D1,PSMB7,PSMD7,CDC27,PSME4
+3	Fc epsilon receptor (FCERI) signaling(R)	0,0178	210	6	1,0550E-05	3,0595E-04	UBE2D1,PSMB7,PSMD7,MAP2K7,PSME4,TAB2
+3	TCR signaling(R)	0,0105	124	5	1,2270E-05	3,1901E-04	UBE2D1,PSMB7,PSMD7,PSME4,TAB2
+3	Ubiquitin mediated proteolysis(K)	0,0119	140	5	2,1906E-05	4,7588E-04	UBE2D1,CDC27,SMURF2,UBA1,BIRC3
+3	Toll-like Receptor Cascades(R)	0,0119	141	5	2,2661E-05	4,7588E-04	UBE2D1,CASP8,MAP2K7,TAB2,BIRC3
+3	Degradation of beta-catenin by the destruction complex(R)	0,0060	71	4	2,7492E-05	5,2236E-04	PSMB7,PSMD7,APC,PSME4
+3	Cellular response to hypoxia(R)	0,0062	73	4	3,0620E-05	5,5116E-04	UBE2D1,PSMB7,PSMD7,PSME4
+3	S Phase(R)	0,0133	157	5	3,7746E-05	6,0394E-04	UBE2D1,PSMB7,PSMD7,CDC27,PSME4
+3	TCF dependent signaling in response to WNT(R)	0,0135	160	5	4,1282E-05	6,1924E-04	PSMB7,PSMD7,SMURF2,APC,PSME4
+3	RIPK1-mediated regulated necrosis(R)	0,0024	28	3	4,6474E-05	6,2415E-04	CASP8,OGT,BIRC3
+3	Hedgehog 'on' state(R)	0,0069	82	4	4,8012E-05	6,2415E-04	PSMB7,PSMD7,SMURF2,PSME4
+3	FAS (CD95) signaling pathway(N)	0,0027	32	3	6,8916E-05	8,2746E-04	CASP8,MAP2K7,BIRC3
+3	MAPK signaling pathway(K)	0,0249	294	6	6,8955E-05	8,2746E-04	ERBB4,MAP2K7,MAP3K5,MAPK8IP1,NF1,TAB2
+3	TNFR2 non-canonical NF-kB pathway(R)	0,0086	101	4	1,0701E-04	1,1771E-03	PSMB7,PSMD7,PSME4,BIRC3
+3	Signaling by ROBO receptors(R)	0,0170	201	5	1,2047E-04	1,1884E-03	ROBO3,PSMB7,PSMD7,NELL2,PSME4
+3	Pathways of neurodegeneration - multiple diseases(K)	0,0402	475	7	1,2131E-04	1,1884E-03	PSMB7,PSMD7,CASP8,MAP2K7,MAP3K5,APC,UBA1
+3	TNF signaling(R)	0,0033	39	3	1,2333E-04	1,1884E-03	CASP8,TAB2,BIRC3
+3	Mitotic Metaphase and Anaphase(R)	0,0174	205	5	1,3204E-04	1,1884E-03	UBE2D1,PSMB7,PSMD7,CDC27,PSME4
+3	Beta-catenin independent WNT signaling(R)	0,0096	113	4	1,6429E-04	1,4786E-03	PSMB7,PSMD7,SMURF2,PSME4
+3	Proteasome(K)	0,0039	46	3	2,0004E-04	1,7042E-03	PSMB7,PSMD7,PSME4
+3	TGF-beta receptor signaling(N)	0,0040	47	3	2,1302E-04	1,7042E-03	RNF111,SMURF2,TAB2
+3	Apoptotic execution phase(R)	0,0040	47	3	2,1302E-04	1,7042E-03	CASP8,APC,PLEC
+3	Alzheimer disease(K)	0,0312	369	6	2,3747E-04	1,7387E-03	PSMB7,PSMD7,CASP8,MAP2K7,MAP3K5,APC
+3	RAF/MAP kinase cascade(R)	0,0199	235	5	2,4838E-04	1,7387E-03	PSMB7,PSMD7,ERBB4,PSME4,NF1
+3	Neurexins and neuroligins(R)	0,0042	50	3	2,5521E-04	1,7865E-03	NLGN2,DLGAP1,SHANK2
+3	Regulation of Apoptosis(R)	0,0045	53	3	3,0246E-04	2,1018E-03	PSMB7,PSMD7,PSME4
+3	Cell Cycle Checkpoints(R)	0,0210	248	5	3,1800E-04	2,1018E-03	UBE2D1,PSMB7,PSMD7,CDC27,PSME4
+3	Interleukin-1 family signaling(R)	0,0117	138	4	3,5030E-04	2,1018E-03	PSMB7,PSMD7,PSME4,TAB2
+3	Metabolism of polyamines(R)	0,0048	57	3	3,7377E-04	2,2426E-03	PSMB7,PSMD7,PSME4
+3	Hedgehog ligand biogenesis(R)	0,0053	63	3	4,9970E-04	2,9982E-03	PSMB7,PSMD7,PSME4
+3	Signaling by TGF-beta Receptor Complex(R)	0,0062	73	3	7,6474E-04	4,2935E-03	UBE2D1,RNF111,SMURF2
+3	Platinum drug resistance(K)	0,0062	73	3	7,6474E-04	4,2935E-03	CASP8,MAP3K5,BIRC3
+3	Huntington disease(K)	0,0259	306	5	8,2392E-04	4,2935E-03	PSMB7,PSMD7,CASP8,MAP2K7,MAP3K5
+3	Protein ubiquitination(R)	0,0064	76	3	8,5870E-04	4,2935E-03	UBE2D1,RNF181,UBA1
+3	EGF receptor signaling pathway(P)	0,0069	82	3	1,0680E-03	5,3398E-03	ERBB4,MAP3K5,NF1
+3	ABC-family proteins mediated transport(R)	0,0071	84	3	1,1443E-03	5,7213E-03	PSMB7,PSMD7,PSME4
+3	Class I MHC mediated antigen processing & presentation(R)	0,0162	191	4	1,1752E-03	5,7724E-03	PSMB7,PSMD7,SMURF2,PSME4
+3	DNA Replication Pre-Initiation(R)	0,0072	85	3	1,1837E-03	5,7724E-03	PSMB7,PSMD7,PSME4
+3	Regulation of mRNA stability by proteins that bind AU-rich elements(R)	0,0074	87	3	1,2650E-03	5,7724E-03	PSMB7,PSMD7,PSME4
+3	MAPK6/MAPK4 signaling(R)	0,0075	89	3	1,3498E-03	5,7724E-03	PSMB7,PSMD7,PSME4
+3	Hedgehog 'off' state(R)	0,0076	90	3	1,3936E-03	5,7724E-03	PSMB7,PSMD7,PSME4
+3	Epstein-Barr virus infection(K)	0,0171	202	4	1,4431E-03	5,7724E-03	PSMD7,CASP8,MAP2K7,TAB2
+3	Human immunodeficiency virus 1 infection(K)	0,0179	212	4	1,7214E-03	6,8857E-03	CCNB3,CASP8,MAP2K7,TAB2
+3	p38 MAPK signaling pathway(N)	0,0023	27	2	2,0360E-03	8,1438E-03	MAP3K5,TAB2
+3	Neddylation(R)	0,0189	223	4	2,0686E-03	8,2745E-03	UBE2D1,PSMB7,PSMD7,PSME4
+3	Toll-like receptor signaling pathway(K)	0,0088	104	3	2,1014E-03	8,4056E-03	CASP8,MAP2K7,TAB2
+3	Reelin signaling pathway(N)	0,0024	28	2	2,1862E-03	8,5146E-03	MAP2K7,MAPK8IP1
+3	Signaling by BMP(R)	0,0024	28	2	2,1862E-03	8,5146E-03	UBE2D1,SMURF2
+3	ErbB4 signaling events(N)	0,0024	28	2	2,1862E-03	8,5146E-03	ERBB4,TAB2
+3	PIP3 activates AKT signaling(R)	0,0196	232	4	2,3867E-03	8,5146E-03	PSMB7,PSMD7,ERBB4,PSME4
+3	hiv-1 nef: negative effector of fas and tnf(B)	0,0025	30	2	2,5021E-03	8,5146E-03	MAP2K7,BIRC3
+3	Toxoplasmosis(K)	0,0095	112	3	2,5903E-03	8,5146E-03	CASP8,TAB2,BIRC3
+3	Apoptosis - multiple species(K)	0,0027	32	2	2,8382E-03	8,5146E-03	CASP8,BIRC3
+3	FAS signaling pathway(P)	0,0028	33	2	3,0138E-03	9,0414E-03	FAF1,CASP8
+3	Salmonella infection(K)	0,0211	249	4	3,0773E-03	9,2318E-03	CASP8,MAP2K7,TAB2,BIRC3
+3	Parkinson disease(K)	0,0211	249	4	3,0773E-03	9,2318E-03	PSMB7,PSMD7,MAP3K5,UBA1
+3	Apoptosis(K)	0,0115	136	3	4,4587E-03	0,0134	CASP8,MAP3K5,BIRC3
+3	BMP receptor signaling(N)	0,0035	41	2	4,5960E-03	0,0138	SMURF2,TAB2
+3	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways(R)	0,0036	42	2	4,8157E-03	0,0144	CASP8,TAB2
+3	Spinocerebellar ataxia(K)	0,0121	143	3	5,1241E-03	0,0154	PSMB7,PSMD7,MAP3K5
+3	RNA Polymerase II Transcription(R)	0,0773	913	7	5,6285E-03	0,0169	UBE2D1,PSMB7,PSMD7,CDC27,RNF111,SMURF2,PSME4
+3	keratinocyte differentiation(B)	0,0040	47	2	5,9850E-03	0,0180	MAP2K7,BIRC3
+3	Ceramide signaling pathway(N)	0,0041	48	2	6,2329E-03	0,0187	CASP8,BIRC3
+3	Necroptosis(K)	0,0135	159	3	6,8614E-03	0,0195	FAF1,CASP8,BIRC3
+3	Hepatitis B(K)	0,0137	162	3	7,2215E-03	0,0195	CASP8,MAP2K7,TAB2
+3	Caspase cascade in apoptosis(N)	0,0044	52	2	7,2709E-03	0,0195	CASP8,BIRC3
+3	Senescence-Associated Secretory Phenotype (SASP)(R)	0,0046	54	2	7,8172E-03	0,0195	UBE2D1,CDC27
+3	Protein processing in endoplasmic reticulum(K)	0,0145	171	3	8,3690E-03	0,0195	UBE2D1,MAP2K7,MAP3K5
+3	Signaling by the B Cell Receptor (BCR)(R)	0,0145	171	3	8,3690E-03	0,0195	PSMB7,PSMD7,PSME4
+3	p53 pathway(N)	0,0048	57	2	8,6705E-03	0,0195	UBE2D1,KAT8
+3	Signaling by ERBB4(R)	0,0048	57	2	8,6705E-03	0,0195	ERBB4,TAB2
+3	Mitotic G2-G2/M phases(R)	0,0151	178	3	9,3318E-03	0,0195	PSMB7,PSMD7,PSME4
+3	NOD-like receptor signaling pathway(K)	0,0153	181	3	9,7636E-03	0,0195	CASP8,TAB2,BIRC3
+3	Oxidative Stress Induced Senescence(R)	0,0056	66	2	0,0115	0,0229	MAP2K7,MAP3K5
+3	Amyotrophic lateral sclerosis(K)	0,0308	364	4	0,0116	0,0231	PSMB7,PSMD7,ERBB4,MAP3K5
+3	Interleukin-17 signaling(R)	0,0057	67	2	0,0118	0,0236	MAP2K7,TAB2
+3	FasL/ CD95L signaling(R)	0,0004	5	1	0,0122	0,0244	CASP8
+3	CDC42 signaling events(N)	0,0059	70	2	0,0128	0,0256	MAP2K7,APC
+3	basic mechanisms of sumoylation(B)	0,0005	6	1	0,0146	0,0293	UBE2D1
+3	Signaling by NOTCH4(R)	0,0068	80	2	0,0165	0,0330	PSMB7,PSMD7
+3	sumoylation as a mechanism to modulate ctbp-dependent gene responses(B)	0,0006	7	1	0,0170	0,0341	UBE2D1
+3	C-MYB transcription factor network(N)	0,0069	82	2	0,0173	0,0346	TAB2,BIRC3
+3	ErbB signaling pathway(K)	0,0072	85	2	0,0185	0,0370	ERBB4,MAP2K7
+3	TRAIL  signaling(R)	0,0007	8	1	0,0195	0,0389	CASP8
+3	sodd/tnfr1 signaling pathway(B)	0,0008	9	1	0,0219	0,0437	BIRC3
+3	proteasome complex(B)	0,0008	9	1	0,0219	0,0437	UBE2D1
+3	IL-17 signaling pathway(K)	0,0080	94	2	0,0223	0,0446	CASP8,TAB2
+3	Progesterone-mediated oocyte maturation(K)	0,0085	100	2	0,0250	0,0456	CCNB3,CDC27
+3	Alpha-protein kinase 1 signaling pathway(R)	0,0009	11	1	0,0267	0,0456	TAB2
+3	regulation of transcriptional activity by pml(B)	0,0009	11	1	0,0267	0,0456	UBE2D1
+3	NF-kappa B signaling pathway(K)	0,0088	104	2	0,0269	0,0456	TAB2,BIRC3
+3	il-10 anti-inflammatory signaling pathway(B)	0,0010	12	1	0,0290	0,0456	MAP2K7
+3	human cytomegalovirus and map kinase pathways(B)	0,0011	13	1	0,0314	0,0456	MAP2K7
+3	fibrinolysis pathway(B)	0,0011	13	1	0,0314	0,0456	UBE2D1
+3	role of mitochondria in apoptotic signaling(B)	0,0011	13	1	0,0314	0,0456	BIRC3
+3	il12 and stat4 dependent signaling pathway in th1 development(B)	0,0011	13	1	0,0314	0,0456	MAP2K7
+3	Glutamatergic synapse(K)	0,0097	114	2	0,0318	0,0456	DLGAP1,SHANK2
+3	the 41bb-dependent immune response(B)	0,0012	14	1	0,0338	0,0456	MAP2K7
+3	Neurotrophin signaling pathway(K)	0,0101	119	2	0,0344	0,0456	MAP2K7,MAP3K5
+3	ErbB receptor signaling network(N)	0,0013	15	1	0,0362	0,0456	ERBB4
+3	Cell cycle(K)	0,0105	124	2	0,0371	0,0456	CCNB3,CDC27
+3	Caspase activation via Death Receptors in the presence of ligand(R)	0,0014	16	1	0,0385	0,0456	CASP8
+3	Osteoclast differentiation(K)	0,0108	128	2	0,0393	0,0456	MAP2K7,TAB2
+3	gata3 participate in activating the th2 cytokine genes expression(B)	0,0014	17	1	0,0409	0,0456	MAP2K7
+3	tnfr1 signaling pathway(B)	0,0014	17	1	0,0409	0,0456	BIRC3
+3	hypoxia-inducible factor in the cardivascular system(B)	0,0014	17	1	0,0409	0,0456	UBE2D1
+3	Mitotic G1 phase and G1/S transition(R)	0,0113	134	2	0,0427	0,0456	PSMB7,PSMD7
+3	Degradation of beta catenin(N)	0,0015	18	1	0,0433	0,0456	APC
+3	Yersinia infection(K)	0,0116	137	2	0,0444	0,0456	MAP2K7,TAB2
+3	Fluid shear stress and atherosclerosis(K)	0,0118	139	2	0,0456	0,0456	MAP2K7,MAP3K5
+3	Measles(K)	0,0118	139	2	0,0456	0,0456	CASP8,TAB2
+3	Cellular roles of Anthrax toxin(N)	0,0016	19	1	0,0456	0,0456	MAP2K7
+3	fas signaling pathway (cd95)(B)	0,0016	19	1	0,0456	0,0456	FAF1
+3	tumor suppressor arf inhibits ribosomal biogenesis(B)	0,0016	19	1	0,0456	0,0456	UBE2D1
+3	Canonical Wnt signaling pathway(N)	0,0017	20	1	0,0480	0,0480	APC
+3	tnf/stress related signaling(B)	0,0017	20	1	0,0480	0,0480	MAP2K7
+3	hypoxia and p53 in the cardiovascular system(B)	0,0017	20	1	0,0480	0,0480	UBE2D1
+4	COPI-mediated anterograde transport(R)	0,0064	76	7	1,0225E-10	5,0103E-09	DCTN5,SPTA1,DYNC1H1,COG7,COG5,COPZ2,ANK2
+4	Intra-Golgi and retrograde Golgi-to-ER traffic(R)	0,0125	148	8	2,5182E-10	6,0437E-09	DCTN5,NBAS,DYNC1H1,COG7,COG5,COPZ2,KIF23,RINT1
+4	Asparagine N-linked glycosylation(R)	0,0198	234	7	2,2205E-07	3,5528E-06	DCTN5,SPTA1,DYNC1H1,COG7,COG5,COPZ2,ANK2
+4	Cilium Assembly(R)	0,0152	180	5	2,1985E-05	2,6382E-04	NPHP4,MARK4,DYNC1H1,CEP131,HAUS5
+4	MHC class II antigen presentation(R)	0,0080	94	3	7,9220E-04	7,1298E-03	DCTN5,DYNC1H1,KIF23
+4	Lissencephaly gene (LIS1) in neuronal migration and development(N)	0,0024	28	2	1,3753E-03	0,0110	DYNC1H1,MAP1B
+4	Huntington disease(P)	0,0102	121	3	1,6329E-03	0,0114	DNAH5,DYNC1H1,TUBB8B
+4	HSP90 chaperone cycle for steroid hormone receptors (SHR)(R)	0,0029	34	2	2,0135E-03	0,0121	DCTN5,DYNC1H1
+4	Huntington disease(K)	0,0259	306	4	2,6878E-03	0,0133	DCTN5,DNAH2,DNAH5,DNAH12
+4	Vasopressin-regulated water reabsorption(K)	0,0037	44	2	3,3325E-03	0,0133	DCTN5,DYNC1H1
+4	Mitotic G2-G2/M phases(R)	0,0151	178	3	4,8363E-03	0,0150	DYNC1H1,CEP131,HAUS5
+4	Mitotic Prometaphase(R)	0,0151	178	3	4,8363E-03	0,0150	DYNC1H1,CEP131,HAUS5
+4	Amyotrophic lateral sclerosis(K)	0,0308	364	4	4,9930E-03	0,0150	DCTN5,DNAH2,DNAH5,DNAH12
+4	Signaling by ROBO receptors(R)	0,0170	201	3	6,7640E-03	0,0203	RPL10A,GSPT1,EVL
+4	L1CAM interactions(R)	0,0069	82	2	0,0111	0,0251	SPTA1,ANK2
+4	Eukaryotic Translation Termination(R)	0,0073	86	2	0,0121	0,0251	RPL10A,GSPT1
+4	Pathways of neurodegeneration - multiple diseases(K)	0,0402	475	4	0,0125	0,0251	DCTN5,DNAH2,DNAH5,DNAH12
+4	Nonsense-Mediated Decay (NMD)(R)	0,0091	108	2	0,0186	0,0372	RPL10A,GSPT1
+5	Plasma lipoprotein assembly, remodeling, and clearance(R)	0,0058	68	7	2,2705E-11	2,2023E-09	SAR1B,APOA2,PCSK9,VLDLR,LMF1,LIPC,APOB
+5	Retinoid metabolism and transport(R)	0,0033	39	5	7,6404E-09	3,6674E-07	APOA2,HSPG2,TTR,GPC1,APOB
+5	Post-translational protein phosphorylation(R)	0,0091	107	6	2,6678E-08	8,5370E-07	APOA2,PCSK9,CP,FAM20A,APOB,APOL1
+5	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)(R)	0,0102	120	6	5,2331E-08	1,2052E-06	APOA2,PCSK9,CP,FAM20A,APOB,APOL1
+5	Clathrin-mediated endocytosis(R)	0,0105	124	6	6,3430E-08	1,2052E-06	HIP1R,ADRB2,DNM2,GAK,APOB,EPS15
+5	Cholesterol metabolism(K)	0,0042	50	4	1,8140E-06	2,9024E-05	APOA2,PCSK9,LIPC,APOB
+5	G alpha (i) signalling events(R)	0,0303	358	6	2,8385E-05	3,6900E-04	APOA2,HSPG2,TTR,GPC1,APOB,STRA6
+5	Amyloid fiber formation(R)	0,0047	56	3	1,3294E-04	1,5953E-03	HSPG2,TTR,LTF
+5	Glycosaminoglycan metabolism(R)	0,0091	107	3	8,7488E-04	8,7488E-03	HS6ST1,HSPG2,GPC1
+5	Arf6 trafficking events(N)	0,0029	34	2	1,6777E-03	0,0151	ADRB2,DNM2
+6	Beta1 integrin cell surface interactions(N)	0,0056	66	7	5,6388E-13	2,5375E-11	ITGA4,COL11A1,COL2A1,COL4A4,COL6A1,COL4A6,CSPG4
+6	Extracellular matrix organization(R)	0,0222	262	8	1,5614E-10	3,4351E-09	ITGA4,COL11A1,BGN,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	Integrin signalling pathway(P)	0,0134	158	7	2,4217E-10	3,6325E-09	ITGA4,COL11A1,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	ECM-receptor interaction(K)	0,0075	88	6	4,8782E-10	5,3661E-09	ITGA4,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	Protein digestion and absorption(K)	0,0087	103	6	1,2433E-09	1,1190E-08	COL11A1,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	Focal adhesion(K)	0,0170	201	6	6,4833E-08	4,5383E-07	ITGA4,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	Human papillomavirus infection(K)	0,0280	331	6	1,1975E-06	7,1849E-06	ITGA4,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	PI3K-Akt signaling pathway(K)	0,0300	354	6	1,7676E-06	8,8382E-06	ITGA4,COL2A1,COL4A4,COL6A1,COL9A1,COL4A6
+6	Glycosaminoglycan metabolism(R)	0,0091	107	4	6,2680E-06	3,1340E-05	BGN,CHST15,CSPG4,B4GALT7
+6	Signaling by PDGF(R)	0,0043	51	3	2,8272E-05	1,1309E-04	COL4A4,COL6A1,COL9A1
+6	NCAM signaling for neurite out-growth(R)	0,0046	54	3	3,3491E-05	1,3396E-04	COL4A4,COL6A1,COL9A1
+6	regulators of bone mineralization(B)	0,0008	9	2	5,2509E-05	1,5753E-04	COL4A4,COL4A6
+6	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate(K)	0,0017	20	2	2,5738E-04	7,7214E-04	CHST15,B4GALT7
+6	intrinsic prothrombin activation pathway(B)	0,0019	22	2	3,1101E-04	9,3302E-04	COL4A4,COL4A6
+6	Alpha4 beta1 integrin signaling events(N)	0,0028	33	2	6,9458E-04	2,0837E-03	ITGA4,ADAM28
+6	Beta3 integrin cell surface interactions(N)	0,0036	43	2	1,1714E-03	2,3427E-03	COL4A4,COL4A6
+6	Small cell lung cancer(K)	0,0078	92	2	5,1872E-03	0,0104	COL4A4,COL4A6
+6	AGE-RAGE signaling pathway in diabetic complications(K)	0,0085	100	2	6,0956E-03	0,0122	COL4A4,COL4A6
+6	Amoebiasis(K)	0,0086	102	2	6,3333E-03	0,0127	COL4A4,COL4A6
+6	a4b7 Integrin signaling(N)	0,0007	8	1	9,4403E-03	0,0189	ITGA4
+6	Relaxin signaling pathway(K)	0,0109	129	2	9,9468E-03	0,0199	COL4A4,COL4A6
+6	Beta5 beta6 beta7 and beta8 integrin cell surface interactions(N)	0,0014	17	1	0,0200	0,0281	ITGA4
+6	Glycosaminoglycan biosynthesis - heparan sulfate / heparin(K)	0,0020	24	1	0,0281	0,0281	B4GALT7
+6	Endogenous TLR signaling(N)	0,0021	25	1	0,0292	0,0292	BGN
+6	VEGFR3 signaling in lymphatic endothelium(N)	0,0021	25	1	0,0292	0,0292	ITGA4
+6	Arachidonic acid metabolism(R)	0,0031	37	1	0,0430	0,0430	PTGIS
+7	Class A/1 (Rhodopsin-like receptors)(R)	0,0268	317	9	1,2794E-11	1,7400E-09	CCL23,NPFFR1,PTGDR2,ADRA1A,KNG1,CXCL16,PROKR2,CCKBR,DRD4
+7	G alpha (i) signalling events(R)	0,0303	358	9	3,7625E-11	2,5585E-09	CCL23,PTGDR2,ADCY4,KNG1,CXCL16,GRM4,GNG2,GRM6,DRD4
+7	G alpha (q) signalling events(R)	0,0166	196	7	1,0731E-09	4,8290E-08	CCL23,NPFFR1,ADRA1A,KNG1,PROKR2,GNG2,CCKBR
+7	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway(P)	0,0124	147	6	1,0240E-08	3,4815E-07	ADCY4,ADRA1A,GRM4,GNG2,GRM6,DRD4
+7	Neuroactive ligand-receptor interaction(K)	0,0289	341	7	4,7960E-08	1,2949E-06	NPFFR1,ADRA1A,KNG1,GRM4,CCKBR,GRM6,DRD4
+7	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway(P)	0,0091	108	4	6,5012E-06	1,4303E-04	GRM4,GNG2,GRM6,DRD4
+7	Glutamatergic synapse(K)	0,0097	114	4	8,0380E-06	1,5272E-04	ADCY4,GRM4,GNG2,GRM6
+7	Phospholipase D signaling pathway(K)	0,0125	148	4	2,2311E-05	3,7929E-04	ADCY4,GRM4,GRM6,GNA12
+7	cGMP-PKG signaling pathway(K)	0,0141	167	4	3,5704E-05	4,8489E-04	ADCY4,ADRA1A,KNG1,GNA12
+7	G alpha (12/13) signalling events(R)	0,0047	56	3	3,7299E-05	4,8489E-04	ADRA1A,GNG2,GNA12
+7	LPA receptor mediated events(N)	0,0053	63	3	5,2848E-05	6,3418E-04	ADCY4,GNG2,GNA12
+7	Chemokine signaling pathway(K)	0,0163	192	4	6,1326E-05	6,7458E-04	CCL23,ADCY4,CXCL16,GNG2
+7	Thrombin signalling through proteinase activated receptors (PARs)(R)	0,0014	17	2	1,8633E-04	1,8633E-03	GNG2,GNA12
+7	G alpha (z) signalling events(R)	0,0020	24	2	3,6962E-04	3,3266E-03	ADCY4,GNG2
+7	Vascular smooth muscle contraction(K)	0,0113	133	3	4,7347E-04	4,2612E-03	ADCY4,ADRA1A,GNA12
+7	Class C/3 (Metabotropic glutamate/pheromone receptors)(R)	0,0034	40	2	1,0157E-03	8,1254E-03	GRM4,GRM6
+7	PAR1-mediated thrombin signaling events(N)	0,0036	43	2	1,1714E-03	9,3709E-03	GNG2,GNA12
+7	Thromboxane A2 receptor signaling(N)	0,0046	54	2	1,8336E-03	0,0128	GNG2,GNA12
+7	Human cytomegalovirus infection(K)	0,0190	225	3	2,1492E-03	0,0144	ADCY4,GNG2,GNA12
+7	Endothelins(N)	0,0052	62	2	2,4041E-03	0,0144	ADCY4,GNA12
+7	Calcium signaling pathway(K)	0,0203	240	3	2,5810E-03	0,0155	ADCY4,ADRA1A,CCKBR
+7	Pathways in cancer(K)	0,0450	531	4	2,8419E-03	0,0171	ADCY4,KNG1,GNG2,GNA12
+7	Gastric acid secretion(K)	0,0064	76	2	3,5784E-03	0,0179	ADCY4,CCKBR
+7	Taste transduction(K)	0,0073	86	2	4,5511E-03	0,0203	ADCY4,GRM4
+7	Alpha adrenergic receptor signaling pathway(P)	0,0003	4	1	4,7305E-03	0,0203	ADRA1A
+7	GABAergic synapse(K)	0,0075	89	2	4,8643E-03	0,0203	ADCY4,GNG2
+7	Integration of energy metabolism(R)	0,0076	90	2	4,9709E-03	0,0203	ADCY4,GNG2
+7	Morphine addiction(K)	0,0077	91	2	5,0785E-03	0,0203	ADCY4,GNG2
+7	Salivary secretion(K)	0,0079	93	2	5,2970E-03	0,0212	ADCY4,ADRA1A
+7	Circadian entrainment(K)	0,0082	97	2	5,7469E-03	0,0230	ADCY4,GNG2
+7	Inflammatory mediator regulation of TRP channels(K)	0,0083	98	2	5,8621E-03	0,0234	ADCY4,KNG1
+7	Parathyroid hormone synthesis, secretion and action(K)	0,0090	106	2	6,8213E-03	0,0273	ADCY4,GNA12
+7	Cholinergic synapse(K)	0,0096	113	2	7,7153E-03	0,0283	ADCY4,GNG2
+7	Sphingolipid signaling pathway(K)	0,0101	119	2	8,5218E-03	0,0283	KNG1,GNA12
+7	Rapid glucocorticoid signaling(N)	0,0007	8	1	9,4403E-03	0,0283	GNG2
+7	S1P5 pathway(N)	0,0007	8	1	9,4403E-03	0,0283	GNA12
+7	Relaxin signaling pathway(K)	0,0109	129	2	9,9468E-03	0,0298	ADCY4,GNG2
+7	Dopaminergic synapse(K)	0,0112	132	2	0,0104	0,0312	GNG2,DRD4
+7	Apelin signaling pathway(K)	0,0116	137	2	0,0112	0,0327	ADCY4,GNG2
+7	Retrograde endocannabinoid signaling(K)	0,0125	148	2	0,0129	0,0327	ADCY4,GNG2
+7	Adrenergic signaling in cardiomyocytes(K)	0,0127	150	2	0,0133	0,0327	ADCY4,ADRA1A
+7	Histamine H2 receptor mediated signaling pathway(P)	0,0011	13	1	0,0153	0,0327	GNG2
+7	Thyrotropin-releasing hormone receptor signaling pathway(P)	0,0011	13	1	0,0153	0,0327	GNG2
+7	Histamine H1 receptor mediated signaling pathway(P)	0,0011	13	1	0,0153	0,0327	GNG2
+7	Neurotransmitter receptors and postsynaptic signal transmission(R)	0,0141	167	2	0,0162	0,0327	ADCY4,GNG2
+7	S1P4 pathway(N)	0,0012	14	1	0,0165	0,0327	GNA12
+7	G-protein beta:gamma signalling(R)	0,0013	15	1	0,0176	0,0327	GNG2
+7	PAR4-mediated thrombin signaling events(N)	0,0013	15	1	0,0176	0,0327	GNG2
+7	LPA4-mediated signaling events(N)	0,0014	16	1	0,0188	0,0327	ADCY4
+7	Signal amplification(R)	0,0015	18	1	0,0211	0,0327	GNG2
+7	5HT1 type receptor mediated signaling pathway(P)	0,0016	19	1	0,0223	0,0327	GNG2
+7	Sphingosine 1-phosphate (S1P) pathway(N)	0,0016	19	1	0,0223	0,0327	GNA12
+7	Beta2 adrenergic receptor signaling pathway(P)	0,0018	21	1	0,0246	0,0327	GNG2
+7	Beta3 adrenergic receptor signaling pathway(P)	0,0018	21	1	0,0246	0,0327	GNG2
+7	Oxytocin receptor mediated signaling pathway(P)	0,0018	21	1	0,0246	0,0327	GNG2
+7	intrinsic prothrombin activation pathway(B)	0,0019	22	1	0,0258	0,0327	KNG1
+7	Regulation of actin cytoskeleton(K)	0,0185	218	2	0,0268	0,0327	KNG1,GNA12
+7	5HT4 type receptor mediated signaling pathway(P)	0,0019	23	1	0,0269	0,0327	GNG2
+7	corticosteroids and cardioprotection(B)	0,0020	24	1	0,0281	0,0327	KNG1
+7	Cortocotropin releasing factor receptor signaling pathway(P)	0,0021	25	1	0,0292	0,0327	GNG2
+7	S1P3 pathway(N)	0,0021	25	1	0,0292	0,0327	GNA12
+7	Nongenotropic Androgen signaling(N)	0,0021	25	1	0,0292	0,0327	GNG2
+7	Vasopressin regulates renal water homeostasis via Aquaporins(R)	0,0022	26	1	0,0304	0,0327	ADCY4
+7	S1P2 pathway(N)	0,0022	26	1	0,0304	0,0327	GNA12
+7	5HT2 type receptor mediated signaling pathway(P)	0,0022	26	1	0,0304	0,0327	GNG2
+7	Beta1 adrenergic receptor signaling pathway(P)	0,0023	27	1	0,0315	0,0327	GNG2
+7	vegf hypoxia and angiogenesis(B)	0,0024	28	1	0,0327	0,0327	KNG1
+7	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction(P)	0,0024	28	1	0,0327	0,0327	GNG2
+7	IL8- and CXCR1-mediated signaling events(N)	0,0024	28	1	0,0327	0,0327	GNG2
+7	Beta2 integrin cell surface interactions(N)	0,0025	29	1	0,0338	0,0338	KNG1
+7	Syndecan-2-mediated signaling events(N)	0,0027	32	1	0,0373	0,0373	KNG1
+7	IL8- and CXCR2-mediated signaling events(N)	0,0029	34	1	0,0396	0,0396	GNG2
+7	actions of nitric oxide in the heart(B)	0,0029	34	1	0,0396	0,0396	KNG1
+7	CXCR3-mediated signaling events(N)	0,0030	35	1	0,0407	0,0407	GNG2
+7	African trypanosomiasis(K)	0,0031	37	1	0,0430	0,0430	KNG1
+7	Signaling events mediated by HDAC Class II(N)	0,0032	38	1	0,0441	0,0441	GNG2
+7	Formation of Fibrin Clot (Clotting Cascade)(R)	0,0033	39	1	0,0452	0,0452	KNG1
+7	DAG and IP3 signaling(R)	0,0034	40	1	0,0464	0,0464	ADCY4
+7	Cytokine-cytokine receptor interaction(K)	0,0250	295	2	0,0465	0,0465	CCL23,CXCL16
+7	ion channels and their functional role in vascular endothelium(B)	0,0036	42	1	0,0486	0,0486	KNG1
+7	Plasma membrane estrogen receptor signaling(N)	0,0036	42	1	0,0486	0,0486	GNG2
+8	Meiotic synapsis(R)	0,0030	36	5	3,3162E-10	2,1555E-08	SUN1,REC8,SYNE1,STAG3,LMNA
+8	Arrhythmogenic right ventricular cardiomyopathy(K)	0,0065	77	4	1,2318E-06	2,9419E-05	RYR2,CACNB2,LMNA,CACNA1S
+8	Cardiac muscle contraction(K)	0,0074	87	4	1,9953E-06	2,9419E-05	RYR2,CACNB2,ASPH,CACNA1S
+8	Hypertrophic cardiomyopathy(K)	0,0076	90	4	2,2809E-06	2,9419E-05	RYR2,CACNB2,LMNA,CACNA1S
+8	Cardiac conduction(R)	0,0080	95	4	2,8230E-06	2,9419E-05	RYR1,RYR2,CACNB2,ASPH
+8	Dilated cardiomyopathy(K)	0,0081	96	4	2,9419E-06	2,9419E-05	RYR2,CACNB2,LMNA,CACNA1S
+8	Adrenergic signaling in cardiomyocytes(K)	0,0127	150	4	1,6964E-05	1,5041E-04	RYR2,CACNB2,PPP2R1B,CACNA1S
+8	Oxytocin signaling pathway(K)	0,0130	154	4	1,8801E-05	1,5041E-04	RYR1,RYR2,CACNB2,CACNA1S
+8	Caspase activation via Dependence Receptors in the absence of ligand(R)	0,0007	8	2	3,5602E-05	2,4921E-04	UNC5B,DCC
+8	Calcium signaling pathway(K)	0,0203	240	4	1,0519E-04	6,3115E-04	RYR1,RYR2,ASPH,CACNA1S
+8	Oocyte meiosis(K)	0,0109	129	3	3,4319E-04	1,7160E-03	REC8,PPP2R1B,STAG3
+8	Ion channel transport(R)	0,0125	148	3	5,1203E-04	2,5601E-03	RYR1,RYR2,ASPH
+8	Netrin-mediated signaling events(N)	0,0027	32	2	5,6121E-04	2,8060E-03	UNC5B,DCC
+8	Netrin-1 signaling(R)	0,0041	49	2	1,3021E-03	5,2083E-03	UNC5B,DCC
+8	NCAM signaling for neurite out-growth(R)	0,0046	54	2	1,5765E-03	6,3058E-03	CACNB2,CACNA1S
+8	Long-term depression(K)	0,0051	60	2	1,9390E-03	7,7560E-03	RYR1,PPP2R1B
+8	Prion disease(K)	0,0231	273	3	2,9672E-03	8,9017E-03	RYR1,RYR2,CACNA1S
+8	Insulin secretion(K)	0,0073	86	2	3,9199E-03	0,0118	RYR2,CACNA1S
+8	Axon guidance mediated by netrin(P)	0,0003	4	1	4,3934E-03	0,0132	DCC
+8	Circadian entrainment(K)	0,0082	97	2	4,9529E-03	0,0149	RYR1,RYR2
+8	Apelin signaling pathway(K)	0,0116	137	2	9,6380E-03	0,0275	RYR1,RYR2
+8	Pathways of neurodegeneration - multiple diseases(K)	0,0402	475	3	0,0137	0,0275	RYR1,RYR2,CACNA1S
+8	Axon guidance(K)	0,0154	182	2	0,0165	0,0331	UNC5B,DCC
+8	hypoxia-inducible factor in the cardivascular system(B)	0,0014	17	1	0,0185	0,0371	ASPH
+8	cAMP signaling pathway(K)	0,0183	216	2	0,0228	0,0456	RYR2,CACNA1S
+9	Striated Muscle Contraction(R)	0,0026	31	4	1,5427E-08	8,3305E-07	MYBPC1,DMD,MYH6,TTN
+9	Hypertrophic cardiomyopathy(K)	0,0076	90	4	1,0657E-06	2,4761E-05	SGCA,DMD,MYH6,TTN
+9	Dilated cardiomyopathy(K)	0,0081	96	4	1,3756E-06	2,4761E-05	SGCA,DMD,MYH6,TTN
+9	agrin in postsynaptic differentiation(B)	0,0038	45	3	8,9170E-06	1,1592E-04	LAMA5,DMD,PAK3
+9	Viral myocarditis(K)	0,0051	60	3	2,0976E-05	2,0976E-04	SGCA,DMD,MYH6
+9	Extracellular matrix organization(R)	0,0222	262	4	7,0489E-05	6,3440E-04	LAMA5,TMPRSS6,DMD,NID2
+9	Thyroid hormone signaling pathway(K)	0,0102	121	3	1,6677E-04	1,1674E-03	THRB,MED27,MYH6
+9	Arrhythmogenic right ventricular cardiomyopathy(K)	0,0065	77	2	2,2476E-03	0,0135	SGCA,DMD
+10	Neddylation(R)	0,0189	223	9	1,6209E-14	3,2419E-13	SOCS2,COP1,COPS6,DCAF17,COPS7B,COPS7A,DCAF10,FBXO7,FBXL4
+10	Class I MHC mediated antigen processing & presentation(R)	0,0162	191	4	2,0599E-05	2,0599E-04	RNF213,TRIM69,FBXO7,FBXL4
+10	Nucleotide Excision Repair(R)	0,0086	102	3	1,0087E-04	6,0524E-04	COPS6,COPS7B,COPS7A
+10	Clathrin-mediated endocytosis(R)	0,0105	124	3	1,7921E-04	8,9606E-04	COPS6,COPS7B,COPS7A
+10	P53 pathway feedback loops 1(P)	0,0005	6	1	5,5734E-03	0,0223	COP1
+10	Interferon-gamma signaling pathway(P)	0,0013	15	1	0,0139	0,0406	SOCS2
+10	Interleukin-7 signaling(R)	0,0019	22	1	0,0203	0,0406	SOCS2
+10	Growth hormone receptor signaling(R)	0,0020	24	1	0,0221	0,0420	SOCS2
+10	ATM pathway(N)	0,0029	34	1	0,0312	0,0420	COP1
+10	FLT3 Signaling(R)	0,0030	36	1	0,0330	0,0420	SOCS2
+10	Type II diabetes mellitus(K)	0,0039	46	1	0,0420	0,0420	SOCS2
+10	IL2-mediated signaling events(N)	0,0046	54	1	0,0492	0,0492	SOCS2
+11	RAB GEFs exchange GTP for GDP on RABs(R)	0,0062	73	6	4,6063E-12	4,6063E-11	RABGEF1,DENND4B,CHM,RAB38,DENND3,TRAPPC9
+11	RAB geranylgeranylation(R)	0,0013	15	3	1,7104E-07	8,5520E-07	RAB2A,CHM,RAB38
+11	Mitotic Prophase(R)	0,0058	68	2	1,1614E-03	3,4843E-03	RAB2A,BLZF1
+11	TBC/RABGAPs(R)	0,0036	42	1	0,0315	0,0441	RABGEF1
+11	Validated transcriptional targets of deltaNp63 isoforms(N)	0,0038	45	1	0,0338	0,0441	RAB38
+11	COPII-mediated vesicle transport(R)	0,0050	59	1	0,0441	0,0441	TRAPPC9
+12	Phosphatidylinositol signaling system(K)	0,0082	97	5	7,7357E-10	2,5528E-08	MTMR3,PLCZ1,DGKQ,ITPKA,PLCE1
+12	Inositol phosphate metabolism(K)	0,0062	73	4	5,0305E-08	8,0488E-07	MTMR3,PLCZ1,ITPKA,PLCE1
+12	Inositol phosphate metabolism(R)	0,0031	37	3	1,0657E-06	1,1722E-05	PLCZ1,ITPKA,PLCE1
+12	Calcium signaling pathway(K)	0,0203	240	3	2,7612E-04	2,2090E-03	PLCZ1,ITPKA,PLCE1
+12	Metabolic pathways(K)	0,1262	1491	5	5,3904E-04	3,0582E-03	MTMR3,PLCZ1,DGKQ,ITPKA,PLCE1
+12	Cortisol synthesis and secretion(K)	0,0055	65	2	6,2435E-04	3,0582E-03	NR5A1,NCEH1
+12	Inflammation mediated by chemokine and cytokine signaling pathway(P)	0,0061	72	2	7,6455E-04	3,0582E-03	PLCZ1,PLCE1
+12	Thyroid hormone signaling pathway(K)	0,0102	121	2	2,1296E-03	8,5182E-03	PLCZ1,PLCE1
+12	Cushing syndrome(K)	0,0131	155	2	3,4610E-03	0,0104	NR5A1,NCEH1
+12	Transcriptional regulation of testis differentiation(R)	0,0009	11	1	6,5006E-03	0,0170	NR5A1
+12	phospholipase c-epsilon pathway(B)	0,0010	12	1	7,0898E-03	0,0170	PLCE1
+12	Shigellosis(K)	0,0208	246	2	8,4955E-03	0,0170	PLCZ1,PLCE1
+12	Transcriptional regulation of pluripotent stem cells(R)	0,0019	23	1	0,0136	0,0271	NR5A1
+12	Effects of PIP2 hydrolysis(R)	0,0020	24	1	0,0141	0,0283	DGKQ
+12	Cholesterol metabolism(K)	0,0042	50	1	0,0293	0,0396	NCEH1
+12	Glycerolipid metabolism(K)	0,0052	61	1	0,0356	0,0396	DGKQ
+12	PI Metabolism(R)	0,0058	68	1	0,0396	0,0396	MTMR3
+12	Plasma lipoprotein assembly, remodeling, and clearance(R)	0,0058	68	1	0,0396	0,0396	NCEH1
+13	Cilium Assembly(R)	0,0152	180	4	2,6634E-07	1,0654E-06	DYNC2LI1,IFT20,IFT74,IFT122
+13	Hedgehog 'off' state(R)	0,0076	90	2	5,7175E-04	1,1435E-03	INTU,IFT122
+13	Vasopressin-regulated water reabsorption(K)	0,0037	44	1	0,0185	0,0185	DYNC2LI1
+14	O-linked glycosylation(R)	0,0063	75	6	6,5503E-14	4,5852E-13	B3GNT8,MUC16,MUC17,MUC12,MUC5B,GALNT9
+14	C-type lectin receptors (CLRs)(R)	0,0118	139	4	2,8226E-07	8,4677E-07	MUC16,MUC17,MUC12,MUC5B
+14	Mucin type O-glycan biosynthesis(K)	0,0027	32	1	0,0161	0,0236	GALNT9
+14	Other types of O-glycan biosynthesis(K)	0,0040	47	1	0,0236	0,0236	GALNT9
+14	Salivary secretion(K)	0,0079	93	1	0,0463	0,0463	MUC5B
+14	IL-17 signaling pathway(K)	0,0080	94	1	0,0468	0,0468	MUC5B
+15	Circadian entrainment(K)	0,0082	97	3	5,4699E-06	1,9692E-04	CACNA1I,GRIN1,CACNA1G
+15	Neurotransmitter receptors and postsynaptic signal transmission(R)	0,0141	167	3	2,7665E-05	4,9796E-04	CHRNA4,GRIK2,GRIN1
+15	Calcium signaling pathway(K)	0,0203	240	3	8,1345E-05	9,7614E-04	CACNA1I,GRIN1,CACNA1G
+15	Nicotine addiction(K)	0,0034	40	2	1,1390E-04	1,0251E-03	CHRNA4,GRIN1
+15	NCAM signaling for neurite out-growth(R)	0,0046	54	2	2,0709E-04	1,1980E-03	CACNA1I,CACNA1G
+15	Neuroactive ligand-receptor interaction(K)	0,0289	341	3	2,3030E-04	1,1980E-03	CHRNA4,GRIK2,GRIN1
+15	GnRH secretion(K)	0,0054	64	2	2,9040E-04	1,1980E-03	CACNA1I,CACNA1G
+15	Cortisol synthesis and secretion(K)	0,0055	65	2	2,9950E-04	1,1980E-03	CACNA1I,CACNA1G
+15	Aldosterone synthesis and secretion(K)	0,0083	98	2	6,7699E-04	2,5385E-03	CACNA1I,CACNA1G
+15	Glutamatergic synapse(K)	0,0097	114	2	9,1361E-04	2,5385E-03	GRIK2,GRIN1
+15	Huntington disease(P)	0,0102	121	2	1,0280E-03	2,5385E-03	GRIK2,GRIN1
+15	Endogenous_cannabinoid_signaling(P)	0,0003	3	1	1,2693E-03	2,5385E-03	CACNA1G
+15	GABA-B_receptor_II_signaling(P)	0,0003	3	1	1,2693E-03	2,5385E-03	CACNA1G
+15	Cushing syndrome(K)	0,0131	155	2	1,6772E-03	3,3544E-03	CACNA1I,CACNA1G
+15	MAPK signaling pathway(K)	0,0249	294	2	5,8924E-03	0,0118	CACNA1I,CACNA1G
+15	nitric oxide signaling pathway(B)	0,0014	16	1	6,7545E-03	0,0135	GRIN1
+15	Synaptic adhesion-like molecules(R)	0,0017	20	1	8,4373E-03	0,0169	GRIN1
+15	Type II diabetes mellitus(K)	0,0039	46	1	0,0193	0,0206	CACNA1G
+15	Cocaine addiction(K)	0,0041	49	1	0,0206	0,0206	GRIN1
+15	Neurexins and neuroligins(R)	0,0042	50	1	0,0210	0,0210	GRIN1
+15	Long-term potentiation(K)	0,0057	67	1	0,0280	0,0280	GRIN1
+15	Amphetamine addiction(K)	0,0058	69	1	0,0289	0,0289	GRIN1
+15	Regulation of nuclear beta catenin signaling and target gene transcription(N)	0,0067	79	1	0,0330	0,0330	CACNA1G
+15	EPH-Ephrin signaling(R)	0,0073	86	1	0,0359	0,0359	GRIN1
+15	Cholinergic synapse(K)	0,0096	113	1	0,0469	0,0469	CHRNA4
+16	Cadherin signaling pathway(P)	0,0085	100	4	5,1370E-09	1,5411E-08	PCDH11Y,FAT2,DCHS1,PCDHB10
+16	Wnt signaling pathway(P)	0,0230	272	4	2,8118E-07	2,8118E-07	PCDH11Y,FAT2,DCHS1,PCDHB10
+16	Hippo signaling pathway - multiple species(K)	0,0025	29	1	9,7844E-03	9,7844E-03	DCHS1
+17	Mitochondrial translation(R)	0,0079	93	3	4,8807E-07	1,4642E-06	GFM1,MRPL22,DAP3
+17	TRAIL signaling pathway(N)	0,0019	22	1	5,5771E-03	5,5771E-03	DAP3
+17	Ribosome(K)	0,0134	158	1	0,0396	0,0396	MRPL22
+18	Hippo signaling pathway - multiple species(K)	0,0025	29	3	1,4799E-08	2,9597E-08	FRMD6,DCHS2,FAT4
+18	Hippo signaling pathway(K)	0,0133	157	1	0,0393	0,0393	FRMD6
+19	Ribosome biogenesis in eukaryotes(K)	0,0093	110	3	8,0762E-07	1,6152E-06	WDR36,PWP2,UTP14A
+19	rRNA processing(R)	0,0162	191	3	4,2279E-06	4,2279E-06	WDR36,PWP2,UTP14A
+20	Mitochondrial protein import(R)	0,0035	41	3	4,1820E-08	2,5092E-07	HSPA9,CHCHD3,TIMM44
+20	Mitochondrial biogenesis(R)	0,0076	90	2	1,7328E-04	5,1984E-04	HSPA9,CHCHD3
+20	Interleukin-12 family signaling(R)	0,0046	54	1	0,0137	0,0154	HSPA9
+20	Parkinson disease(P)	0,0052	61	1	0,0154	0,0154	HSPA9
+20	RNA degradation(K)	0,0067	79	1	0,0199	0,0199	HSPA9
+20	Tuberculosis(K)	0,0152	180	1	0,0450	0,0450	HSPA9
+21	Ribosome biogenesis in eukaryotes(K)	0,0093	110	1	9,3126E-03	0,0162	HEATR1
+21	rRNA processing(R)	0,0162	191	1	0,0162	0,0162	HEATR1
+22	Glyoxylate metabolism and glycine degradation(R)	0,0023	27	2	5,2249E-06	4,1799E-05	GCSH,DBT
+22	Branched-chain amino acid catabolism(R)	0,0013	15	1	2,5382E-03	6,7613E-03	DBT
+22	Glyoxylate and dicarboxylate metabolism(K)	0,0025	30	1	5,0731E-03	6,7613E-03	GCSH
+22	Propanoate metabolism(K)	0,0029	34	1	5,7486E-03	6,7613E-03	DBT
+22	Glycine, serine and threonine metabolism(K)	0,0034	40	1	6,7613E-03	6,7613E-03	GCSH
+22	Valine, leucine and isoleucine degradation(K)	0,0041	48	1	8,1108E-03	8,1108E-03	DBT
+22	Metabolic pathways(K)	0,1262	1491	2	0,0159	0,0159	GCSH,DBT
+22	Carbon metabolism(K)	0,0100	118	1	0,0199	0,0199	GCSH
+23	Autophagy - other(K)	0,0027	32	2	7,3393E-06	6,6053E-05	ATG3,ATG12
+23	Macroautophagy(R)	0,0093	110	2	8,6724E-05	3,4690E-04	ATG3,ATG12
+23	Autophagy - animal(K)	0,0116	137	2	1,3452E-04	4,0357E-04	ATG3,ATG12
+23	RIG-I-like receptor signaling pathway(K)	0,0059	70	1	0,0118	0,0125	ATG12
+23	DDX58/IFIH1-mediated induction of interferon-alpha/beta(R)	0,0063	74	1	0,0125	0,0125	ATG12
+23	FoxO signaling pathway(K)	0,0111	131	1	0,0221	0,0221	ATG12
+23	NOD-like receptor signaling pathway(K)	0,0153	181	1	0,0304	0,0304	ATG12
+23	Kaposi sarcoma-associated herpesvirus infection(K)	0,0163	193	1	0,0324	0,0324	ATG3
+23	Shigellosis(K)	0,0208	246	1	0,0412	0,0412	ATG12
+24	Regulation of actin cytoskeleton(K)	0,0185	218	2	3,4062E-04	4,4280E-03	MYL5,MYH14
+24	Smooth Muscle Contraction(R)	0,0032	38	1	6,4238E-03	0,0284	MYL5
+24	Semaphorin interactions(R)	0,0053	63	1	0,0106	0,0284	MYH14
+24	EPH-Ephrin signaling(R)	0,0073	86	1	0,0145	0,0284	MYH14
+24	Leukocyte transendothelial migration(K)	0,0097	114	1	0,0192	0,0284	MYL5
+24	Vascular smooth muscle contraction(K)	0,0113	133	1	0,0224	0,0284	MYH14
+24	Tight junction(K)	0,0143	169	1	0,0284	0,0284	MYH14
+24	Axon guidance(K)	0,0154	182	1	0,0306	0,0306	MYL5
+24	Pathogenic Escherichia coli infection(K)	0,0167	197	1	0,0331	0,0331	MYH14
+24	Focal adhesion(K)	0,0170	201	1	0,0337	0,0337	MYL5
+24	Shigellosis(K)	0,0208	246	1	0,0412	0,0412	MYL5
+24	Salmonella infection(K)	0,0211	249	1	0,0417	0,0417	MYL5
+25	Mitotic Prophase(R)	0,0058	68	1	5,7569E-03	0,0115	PHF8
+25	Chromatin organization(R)	0,0173	204	1	0,0173	0,0173	PHF8
+26	Collecting duct acid secretion(K)	0,0023	27	2	5,2249E-06	6,6283E-05	ATP6V0A4,ATP6V1F
+26	ROS and RNS production in phagocytes(R)	0,0029	34	2	8,2854E-06	6,6283E-05	ATP6V0A4,ATP6V1F
+26	Vibrio cholerae infection(K)	0,0042	50	2	1,7918E-05	8,0531E-05	ATP6V0A4,ATP6V1F
+26	Iron uptake and transport(R)	0,0045	53	2	2,0133E-05	8,0531E-05	ATP6V0A4,ATP6V1F
+26	Epithelial cell signaling in Helicobacter pylori infection(K)	0,0059	70	2	3,5120E-05	8,4989E-05	ATP6V0A4,ATP6V1F
+26	Signaling by Insulin receptor(R)	0,0065	77	2	4,2495E-05	8,4989E-05	ATP6V0A4,ATP6V1F
+26	Synaptic vesicle cycle(K)	0,0066	78	2	4,3606E-05	8,7211E-05	ATP6V0A4,ATP6V1F
+26	Rheumatoid arthritis(K)	0,0079	93	2	6,1990E-05	1,2398E-04	ATP6V0A4,ATP6V1F
+26	Oxidative phosphorylation(K)	0,0113	133	2	1,2678E-04	1,2678E-04	ATP6V0A4,ATP6V1F
+26	Ion channel transport(R)	0,0125	148	2	1,5699E-04	1,5699E-04	ATP6V0A4,ATP6V1F
+26	Phagosome(K)	0,0129	152	2	1,6559E-04	1,6559E-04	ATP6V0A4,ATP6V1F
+26	Human papillomavirus infection(K)	0,0280	331	2	7,8525E-04	7,8525E-04	ATP6V0A4,ATP6V1F
+26	Amino acids regulate mTORC1(R)	0,0047	55	1	9,2909E-03	9,2909E-03	ATP6V1F
+26	Metabolic pathways(K)	0,1262	1491	2	0,0159	0,0159	ATP6V0A4,ATP6V1F
+26	Lysosome(K)	0,0108	128	1	0,0216	0,0216	ATP6V0A4
+26	mTOR signaling pathway(K)	0,0131	155	1	0,0261	0,0261	ATP6V1F
+26	Tuberculosis(K)	0,0152	180	1	0,0302	0,0302	ATP6V0A4
+27	Fatty acyl-CoA biosynthesis(R)	0,0023	27	2	5,2249E-06	1,0450E-05	TECR,ELOVL3
+27	Biosynthesis of unsaturated fatty acids(K)	0,0023	27	2	5,2249E-06	1,0450E-05	TECR,ELOVL3
+27	Fatty acid elongation(K)	0,0023	27	2	5,2249E-06	1,0450E-05	TECR,ELOVL3
+27	Fatty acid metabolism(K)	0,0048	57	2	2,3286E-05	2,3286E-05	TECR,ELOVL3
+27	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism(R)	0,0011	13	1	2,1999E-03	2,1999E-03	ELOVL3
+27	Metabolic pathways(K)	0,1262	1491	2	0,0159	0,0159	TECR,ELOVL3
+28	Transport of inorganic cations/anions and amino acids/oligopeptides(R)	0,0055	65	2	3,0282E-05	2,1197E-04	SLC3A2,SLC7A10
+28	Cell surface interactions at the vascular wall(R)	0,0179	211	2	3,1909E-04	9,5728E-04	SLC3A2,SLC7A10
+28	Tryptophan catabolism(R)	0,0004	5	1	8,4642E-04	1,6928E-03	SLC3A2
+28	Ferroptosis(K)	0,0035	41	1	6,9300E-03	6,9300E-03	SLC3A2
+28	Calcineurin-regulated NFAT-dependent transcription in lymphocytes(N)	0,0040	47	1	7,9422E-03	7,9422E-03	SLC3A2
+28	Protein digestion and absorption(K)	0,0087	103	1	0,0174	0,0174	SLC3A2
+28	mTOR signaling pathway(K)	0,0131	155	1	0,0261	0,0261	SLC3A2
+29	Cell adhesion molecules(K)	0,0126	149	2	1,5912E-04	6,3819E-04	SELPLG,ESAM
+29	Cell surface interactions at the vascular wall(R)	0,0179	211	2	3,1909E-04	6,3819E-04	SELPLG,ESAM
+29	amb2 Integrin signaling(N)	0,0026	31	1	5,2420E-03	5,2420E-03	SELPLG
+29	Staphylococcus aureus infection(K)	0,0081	96	1	0,0162	0,0162	SELPLG
+29	Leukocyte transendothelial migration(K)	0,0097	114	1	0,0192	0,0192	ESAM
+30	Lysosome(K)	0,0108	128	1	0,0216	0,0417	AP3D1
+30	Salmonella infection(K)	0,0211	249	1	0,0417	0,0417	VPS41
+31	Oxidative phosphorylation(K)	0,0113	133	2	1,2678E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Retrograde endocannabinoid signaling(K)	0,0125	148	2	1,5699E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Non-alcoholic fatty liver disease(K)	0,0127	150	2	1,6126E-04	5,3417E-04	NDUFA12,NDUFA10
+31	The citric acid (TCA) cycle and respiratory electron transport(R)	0,0141	166	2	1,9750E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Thermogenesis(K)	0,0196	231	2	3,8245E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Parkinson disease(K)	0,0211	249	2	4,4438E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Prion disease(K)	0,0231	273	2	5,3417E-04	5,3417E-04	NDUFA12,NDUFA10
+31	Huntington disease(K)	0,0259	306	2	6,7111E-04	6,7111E-04	NDUFA12,NDUFA10
+31	Amyotrophic lateral sclerosis(K)	0,0308	364	2	9,4963E-04	9,4963E-04	NDUFA12,NDUFA10
+31	Alzheimer disease(K)	0,0312	369	2	9,7590E-04	9,7590E-04	NDUFA12,NDUFA10
+31	Pathways of neurodegeneration - multiple diseases(K)	0,0402	475	2	1,6171E-03	1,6171E-03	NDUFA12,NDUFA10
+31	Metabolic pathways(K)	0,1262	1491	2	0,0159	0,0159	NDUFA12,NDUFA10
+32	Transport of inorganic cations/anions and amino acids/oligopeptides(R)	0,0055	65	2	3,0282E-05	1,2113E-04	SLC26A1,SLC26A4
+32	Phase II - Conjugation of compounds(R)	0,0046	54	1	9,1223E-03	0,0127	SLC26A1
+32	Thyroid hormone synthesis(K)	0,0063	75	1	0,0127	0,0127	SLC26A4
+32	Glycosaminoglycan metabolism(R)	0,0091	107	1	0,0180	0,0180	SLC26A1
+33	Thiamine metabolism(K)	0,0014	16	2	1,8348E-06	9,1741E-06	ALPP,ALPG
+33	Folate biosynthesis(K)	0,0022	26	2	4,8451E-06	9,6901E-06	ALPP,ALPG
+33	Biosynthesis of cofactors(K)	0,0132	156	2	1,7442E-04	1,7442E-04	ALPP,ALPG
+33	Post-translational modification: synthesis of GPI-anchored proteins(R)	0,0075	89	1	0,0150	0,0150	ALPG
+33	Metabolic pathways(K)	0,1262	1491	2	0,0159	0,0159	ALPP,ALPG
+34	Smooth Muscle Contraction(R)	0,0032	38	2	1,0350E-05	1,0350E-05	TRIM72,DYSF

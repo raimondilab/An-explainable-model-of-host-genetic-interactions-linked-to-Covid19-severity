@@ -1,0 +1,9 @@
+GeneSet	RatioOfProteinsInGeneSet	NumberOfProteinsInGeneSet	ProteinsFromNetwork	P-value	FDR	Nodes
+Fanconi anemia pathway(K)	0.0046	54	7	1.6714E-06	7.8892E-04	FANCM,FANCA,BRCA2,MLH1,RAD51,ERCC4,CENPS
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)(R)	0.0072	85	7	3.0839E-05	4.8418E-03	HERC2,RTEL1,XRCC3,ATM,BRCA2,RAD51,ERCC4
+Homologous recombination(K)	0.0035	41	5	7.1694E-05	8.4599E-03	XRCC3,ATM,BRCA2,POLD1,RAD51
+Nucleotide Excision Repair(R)	0.0086	102	7	9.5816E-05	8.6595E-03	RNF111,COPS7A,UVSSA,POLR2A,POLD1,GTF2H3,ERCC4
+Pathways in cancer(K)	0.0450	531	16	1.1102E-04	8.6595E-03	IGF1R,AR,NOTCH3,KNG1,FGF22,SMAD3,RET,FLT4,BRCA2,DCC,LAMA5,ADCY4,GNG2,NTRK1,MLH1,RAD51
+Hippo signaling pathway - multiple species(K)	0.0025	29	4	2.4551E-04	0.0164	FRMD6,DCHS2,DCHS1,FAT4
+Meiotic recombination(R)	0.0027	32	4	3.5550E-04	0.0210	ATM,BRCA2,MLH1,RAD51
+Axon guidance mediated by netrin(P)	0.0003	4	2	8.1051E-04	0.0381	NFATC2,DCC
